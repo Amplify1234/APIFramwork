@@ -29,7 +29,7 @@ public class TC001_spacexdata_api extends ActionEngine {
 	}
 
 	@Test(dataProvider = "Call", priority = 1)
-	public void Login_Call(Hashtable<String, String> data) throws Exception {
+	public void Call(Hashtable<String, String> data) throws Exception {
 
 		RestAssured.baseURI = data.get("BaseURI");
 
@@ -50,7 +50,7 @@ public class TC001_spacexdata_api extends ActionEngine {
 	
 	
 	@Test(dataProvider="Status", priority = 2)
-	public void LoginStatus(Hashtable<String, String> data) {
+	public void Status(Hashtable<String, String> data) {
 		JsonPath jsonPathEvaluator = response.jsonPath();
 		
 		String ststus_code_expected = data.get("StatusCode");

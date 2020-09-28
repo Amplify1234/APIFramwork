@@ -9,9 +9,9 @@
           <include name="beforeMethod"/>
           <include name="beforeTest"/>
           <include name="afterSuite"/>
+          <include name="Call" invocation-numbers="1 2"/>
           <include name="afterMethod"/>
           <include name="afterTest"/>
-          <include name="Login_Call" invocation-numbers="1 2"/>
         </methods>
       </class> <!-- com.arcfacilities.test.TC001_spacexdata_api -->
     </classes>

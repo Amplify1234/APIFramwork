@@ -2,31 +2,31 @@
 <testng-results skipped="0" failed="2" total="5" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="33469" started-at="2020-09-28T10:18:51Z" finished-at="2020-09-28T10:19:24Z">
+  <suite name="Default suite" duration-ms="12085" started-at="2020-09-28T10:41:26Z" finished-at="2020-09-28T10:41:38Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="33469" started-at="2020-09-28T10:18:51Z" finished-at="2020-09-28T10:19:24Z">
+    <test name="Default test" duration-ms="12085" started-at="2020-09-28T10:41:26Z" finished-at="2020-09-28T10:41:38Z">
       <class name="com.arcfacilities.test.TC001_spacexdata_api">
-        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="beforeSuite" is-config="true" duration-ms="1658" started-at="2020-09-28T15:48:49Z" finished-at="2020-09-28T15:48:51Z">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="beforeSuite" is-config="true" duration-ms="851" started-at="2020-09-28T16:11:25Z" finished-at="2020-09-28T16:11:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="beforeTest" is-config="true" duration-ms="0" started-at="2020-09-28T15:48:51Z" finished-at="2020-09-28T15:48:51Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="beforeTest" is-config="true" duration-ms="1" started-at="2020-09-28T16:11:26Z" finished-at="2020-09-28T16:11:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="beforeMethod" is-config="true" duration-ms="348" started-at="2020-09-28T15:48:51Z" finished-at="2020-09-28T15:48:51Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="beforeMethod" is-config="true" duration-ms="352" started-at="2020-09-28T16:11:27Z" finished-at="2020-09-28T16:11:27Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void com.arcfacilities.test.TC001_spacexdata_api.Login_Call(java.util.Hashtable) throws java.lang.Exception]]>
+                <![CDATA[public void com.arcfacilities.test.TC001_spacexdata_api.Call(java.util.Hashtable) throws java.lang.Exception]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="Login_Call(java.util.Hashtable)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="Login_Call" duration-ms="26679" started-at="2020-09-28T15:48:51Z" data-provider="Call" finished-at="2020-09-28T15:49:18Z">
+        <test-method status="PASS" signature="Call(java.util.Hashtable)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="Call" duration-ms="6358" started-at="2020-09-28T16:11:27Z" data-provider="Call" finished-at="2020-09-28T16:11:33Z">
           <params>
             <param index="0">
               <value>
@@ -36,19 +36,30 @@
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Login_Call -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="afterMethod" is-config="true" duration-ms="620" started-at="2020-09-28T15:49:18Z" finished-at="2020-09-28T15:49:19Z">
+        </test-method> <!-- Call -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="afterMethod" is-config="true" duration-ms="505" started-at="2020-09-28T16:11:33Z" finished-at="2020-09-28T16:11:34Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Login_Call status=SUCCESS method=TC001_spacexdata_api.Login_Call(java.util.Hashtable)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078] output={null}]]]>
+                <![CDATA[[TestResult name=Call status=SUCCESS method=TC001_spacexdata_api.Call(java.util.Hashtable)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="FAIL" signature="Login_Call(java.util.Hashtable)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="Login_Call" duration-ms="4" started-at="2020-09-28T15:49:19Z" data-provider="Call" finished-at="2020-09-28T15:49:19Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2020-09-28T16:11:34Z" finished-at="2020-09-28T16:11:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.arcfacilities.test.TC001_spacexdata_api.Call(java.util.Hashtable) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="Call(java.util.Hashtable)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="Call" duration-ms="9" started-at="2020-09-28T16:11:34Z" data-provider="Call" finished-at="2020-09-28T16:11:34Z">
           <params>
             <param index="0">
               <value>
@@ -126,7 +137,7 @@
 	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:182)
 	at io.restassured.internal.RequestSpecificationImpl.get(RequestSpecificationImpl.groovy:166)
 	at io.restassured.internal.RequestSpecificationImpl.get(RequestSpecificationImpl.groovy)
-	at com.arcfacilities.test.TC001_spacexdata_api.Login_Call(TC001_spacexdata_api.java:41)
+	at com.arcfacilities.test.TC001_spacexdata_api.Call(TC001_spacexdata_api.java:41)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -156,30 +167,30 @@
           </exception> <!-- java.net.URISyntaxException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Login_Call -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-09-28T15:49:19Z" finished-at="2020-09-28T15:49:19Z">
+        </test-method> <!-- Call -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="afterMethod" is-config="true" duration-ms="134" started-at="2020-09-28T16:11:34Z" finished-at="2020-09-28T16:11:34Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void com.arcfacilities.test.TC001_spacexdata_api.Login_Call(java.util.Hashtable) throws java.lang.Exception]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="afterMethod" is-config="true" duration-ms="73" started-at="2020-09-28T15:49:19Z" finished-at="2020-09-28T15:49:19Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=Login_Call status=FAILURE method=TC001_spacexdata_api.Login_Call(java.util.Hashtable)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078] output={null}]]]>
+                <![CDATA[[TestResult name=Call status=FAILURE method=TC001_spacexdata_api.Call(java.util.Hashtable)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="FAIL" signature="Login_Call(java.util.Hashtable)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="Login_Call" duration-ms="30" started-at="2020-09-28T15:49:19Z" data-provider="Call" finished-at="2020-09-28T15:49:19Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-09-28T16:11:34Z" finished-at="2020-09-28T16:11:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.arcfacilities.test.TC001_spacexdata_api.Call(java.util.Hashtable) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="Call(java.util.Hashtable)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="Call" duration-ms="33" started-at="2020-09-28T16:11:34Z" data-provider="Call" finished-at="2020-09-28T16:11:34Z">
           <params>
             <param index="0">
               <value>
@@ -272,7 +283,7 @@
 	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:182)
 	at io.restassured.internal.RequestSpecificationImpl.get(RequestSpecificationImpl.groovy:166)
 	at io.restassured.internal.RequestSpecificationImpl.get(RequestSpecificationImpl.groovy)
-	at com.arcfacilities.test.TC001_spacexdata_api.Login_Call(TC001_spacexdata_api.java:41)
+	at com.arcfacilities.test.TC001_spacexdata_api.Call(TC001_spacexdata_api.java:41)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -302,41 +313,30 @@
           </exception> <!-- java.lang.IllegalStateException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Login_Call -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-09-28T15:49:19Z" finished-at="2020-09-28T15:49:19Z">
+        </test-method> <!-- Call -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="afterMethod" is-config="true" duration-ms="77" started-at="2020-09-28T16:11:34Z" finished-at="2020-09-28T16:11:34Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void com.arcfacilities.test.TC001_spacexdata_api.Login_Call(java.util.Hashtable) throws java.lang.Exception]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="afterMethod" is-config="true" duration-ms="78" started-at="2020-09-28T15:49:19Z" finished-at="2020-09-28T15:49:19Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=Login_Call status=FAILURE method=TC001_spacexdata_api.Login_Call(java.util.Hashtable)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078] output={null}]]]>
+                <![CDATA[[TestResult name=Call status=FAILURE method=TC001_spacexdata_api.Call(java.util.Hashtable)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-09-28T15:49:19Z" finished-at="2020-09-28T15:49:19Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-09-28T16:11:34Z" finished-at="2020-09-28T16:11:34Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void com.arcfacilities.test.TC001_spacexdata_api.Login_Call(java.util.Hashtable) throws java.lang.Exception]]>
+                <![CDATA[public void com.arcfacilities.test.TC001_spacexdata_api.Call(java.util.Hashtable) throws java.lang.Exception]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="Login_Call(java.util.Hashtable)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="Login_Call" duration-ms="4971" started-at="2020-09-28T15:49:19Z" data-provider="Call" finished-at="2020-09-28T15:49:24Z">
+        <test-method status="PASS" signature="Call(java.util.Hashtable)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="Call" duration-ms="3971" started-at="2020-09-28T16:11:34Z" data-provider="Call" finished-at="2020-09-28T16:11:38Z">
           <params>
             <param index="0">
               <value>
@@ -346,30 +346,30 @@
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Login_Call -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="afterMethod" is-config="true" duration-ms="71" started-at="2020-09-28T15:49:24Z" finished-at="2020-09-28T15:49:24Z">
+        </test-method> <!-- Call -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="afterMethod" is-config="true" duration-ms="63" started-at="2020-09-28T16:11:38Z" finished-at="2020-09-28T16:11:38Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Login_Call status=SUCCESS method=TC001_spacexdata_api.Login_Call(java.util.Hashtable)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078] output={null}]]]>
+                <![CDATA[[TestResult name=Call status=SUCCESS method=TC001_spacexdata_api.Call(java.util.Hashtable)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-09-28T15:49:24Z" finished-at="2020-09-28T15:49:24Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-09-28T16:11:38Z" finished-at="2020-09-28T16:11:38Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void com.arcfacilities.test.TC001_spacexdata_api.LoginStatus(java.util.Hashtable)]]>
+                <![CDATA[public void com.arcfacilities.test.TC001_spacexdata_api.Status(java.util.Hashtable)]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="LoginStatus(java.util.Hashtable)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="LoginStatus" duration-ms="92" started-at="2020-09-28T15:49:24Z" data-provider="Status" finished-at="2020-09-28T15:49:24Z">
+        <test-method status="PASS" signature="Status(java.util.Hashtable)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="Status" duration-ms="37" started-at="2020-09-28T16:11:38Z" data-provider="Status" finished-at="2020-09-28T16:11:38Z">
           <params>
             <param index="0">
               <value>
@@ -379,23 +379,23 @@
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- LoginStatus -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="afterMethod" is-config="true" duration-ms="54" started-at="2020-09-28T15:49:24Z" finished-at="2020-09-28T15:49:24Z">
+        </test-method> <!-- Status -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="afterMethod" is-config="true" duration-ms="127" started-at="2020-09-28T16:11:38Z" finished-at="2020-09-28T16:11:38Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=LoginStatus status=SUCCESS method=TC001_spacexdata_api.LoginStatus(java.util.Hashtable)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078] output={null}]]]>
+                <![CDATA[[TestResult name=Status status=SUCCESS method=TC001_spacexdata_api.Status(java.util.Hashtable)[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-09-28T15:49:24Z" finished-at="2020-09-28T15:49:24Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="afterTest" is-config="true" duration-ms="1" started-at="2020-09-28T16:11:38Z" finished-at="2020-09-28T16:11:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="afterSuite" is-config="true" duration-ms="0" started-at="2020-09-28T15:49:24Z" finished-at="2020-09-28T15:49:24Z">
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.arcfacilities.test.TC001_spacexdata_api@6497b078]" name="afterSuite" is-config="true" duration-ms="0" started-at="2020-09-28T16:11:38Z" finished-at="2020-09-28T16:11:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->

@@ -13,7 +13,7 @@ apply plugin: 'maven'
 sourceCompatibility = 1.8
 
 jar {
-	baseName='test-automation-framework'
+	baseName='arc-test-automation-framework'
     manifest {
         attributes 'Implementation-Title': 'ARC Test Automation',
                    'Implementation-Version': '1'
@@ -89,7 +89,11 @@ task makePretty(type: Delete) {
 }
 
 task FNAWeb_Master_projectsautomationsuit (type: Test) {
-	
+	//systemProperties System.getProperties()
+   // testClassesDir = file('build/classes/main')
+   // classpath = sourceSets.main.runtimeClasspath
+   // outputs.upToDateWhen { false }
+   // testLogging.showStandardStreams = true
     useTestNG {
     // suites "testxml/$testXMLFileName"
       suites "testxmlsuite/FNAWeb_Master_projectsautomationsuit.xml"
@@ -97,7 +101,11 @@ task FNAWeb_Master_projectsautomationsuit (type: Test) {
 }
 
 task FNAWeb_Slave1_projectsautomationsuit (type: Test) {
-	
+	//systemProperties System.getProperties()
+   // testClassesDir = file('build/classes/main')
+   // classpath = sourceSets.main.runtimeClasspath
+   // outputs.upToDateWhen { false }
+   // testLogging.showStandardStreams = true
     useTestNG {
     // suites "testxml/$testXMLFileName"
       suites "testxmlsuite/FNAWeb_Slave1_projectsautomationsuit.xml"
@@ -105,7 +113,11 @@ task FNAWeb_Slave1_projectsautomationsuit (type: Test) {
   }
 
 task FNAWeb_Slave2_projectsautomationsuit (type: Test) {
-	
+	//systemProperties System.getProperties()
+   // testClassesDir = file('build/classes/main')
+   // classpath = sourceSets.main.runtimeClasspath
+   // outputs.upToDateWhen { false }
+   // testLogging.showStandardStreams = true
     useTestNG {
     // suites "testxml/$testXMLFileName"
       suites "testxmlsuite/FNAWeb_Slave3_projectsautomationsuit.xml"
@@ -113,15 +125,42 @@ task FNAWeb_Slave2_projectsautomationsuit (type: Test) {
   }	
   
   
-
+task FNA_web_local_viewer_Opt (type: Test) {
+	//systemProperties System.getProperties()
+   // testClassesDir = file('build/classes/main')
+   // classpath = sourceSets.main.runtimeClasspath
+   // outputs.upToDateWhen { false }
+   // testLogging.showStandardStreams = true
+    useTestNG {
+    // suites "testxml/$testXMLFileName"
+      suites "testxmlsuite/ViewerSuit.xml"
+    }
   }	
 
 
-
+task ARCFacilities_SanitySuit_USA (type: Test) {
+	//systemProperties System.getProperties()
+   // testClassesDir = file('build/classes/main')
+   // classpath = sourceSets.main.runtimeClasspath
+   // outputs.upToDateWhen { false }
+   // testLogging.showStandardStreams = true
+    useTestNG {
+    // suites "testxml/$testXMLFileName"
+      suites "testxmlsuite/ARCFacilities_SanitySuit_USA.xml"
+    }   
   }	
   
   
-  
+  task ARCFacilities_Slave4_Automationsuit(type: Test) {
+	//systemProperties System.getProperties()
+   // testClassesDir = file('build/classes/main')
+   // classpath = sourceSets.main.runtimeClasspath
+   // outputs.upToDateWhen { false }
+   // testLogging.showStandardStreams = true
+    useTestNG {
+    // suites "testxml/$testXMLFileName"
+      suites "testxmlsuite/ARCFacilities_Slave4_Automationsuit.xml"
+    }
   }	
   
    task ARCFacilities_Slave5_Automationsuit(type: Test) {

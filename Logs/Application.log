@@ -10458,3 +10458,855 @@ Caused by: groovy.json.JsonException: Lexing failed on line: 1, column: 1, while
 28 Sep 15:49:24,452 DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found 
 28 Sep 15:49:24,453 DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found 
 28 Sep 15:49:24,453 DEBUG - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Nokia/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl" 
+28 Sep 16:07:38,403 DEBUG - read method invoked 
+28 Sep 16:07:38,465 INFO - fileName = C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties 
+28 Sep 16:07:38,465 INFO - key = automation_report_folder 
+28 Sep 16:07:38,465 DEBUG - Inside try 
+28 Sep 16:07:38,466 DEBUG - File : C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties Was Opened For Reading 
+28 Sep 16:07:38,466 DEBUG - File.separator = \ 
+28 Sep 16:07:38,466 DEBUG - File.separatorChar = \ 
+28 Sep 16:07:38,467 DEBUG - Properties Instance Was Created 
+28 Sep 16:07:38,467 DEBUG - properties from file : C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties Were Read 
+28 Sep 16:07:38,467 DEBUG - Inside finally 
+28 Sep 16:07:38,467 DEBUG - BufferedReader(bufferedReader) Instance Closed 
+28 Sep 16:07:38,468 DEBUG - keyValue being returned = automation-reports 
+28 Sep 16:07:38,468 DEBUG - Exiting read method 
+28 Sep 16:07:38,468 DEBUG - read method invoked 
+28 Sep 16:07:38,468 INFO - fileName = C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties 
+28 Sep 16:07:38,469 INFO - key = test_data_file_location 
+28 Sep 16:07:38,469 DEBUG - Inside try 
+28 Sep 16:07:38,469 DEBUG - File : C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties Was Opened For Reading 
+28 Sep 16:07:38,469 DEBUG - File.separator = \ 
+28 Sep 16:07:38,470 DEBUG - File.separatorChar = \ 
+28 Sep 16:07:38,470 DEBUG - Properties Instance Was Created 
+28 Sep 16:07:38,470 DEBUG - properties from file : C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties Were Read 
+28 Sep 16:07:38,471 DEBUG - Inside finally 
+28 Sep 16:07:38,471 DEBUG - BufferedReader(bufferedReader) Instance Closed 
+28 Sep 16:07:38,471 DEBUG - keyValue being returned = /testdata/TestData.xlsx 
+28 Sep 16:07:38,472 DEBUG - Exiting read method 
+28 Sep 16:07:38,472 DEBUG - read method invoked 
+28 Sep 16:07:38,472 INFO - fileName = C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties 
+28 Sep 16:07:38,473 INFO - key = api_key 
+28 Sep 16:07:38,473 DEBUG - Inside try 
+28 Sep 16:07:38,473 DEBUG - File : C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties Was Opened For Reading 
+28 Sep 16:07:38,474 DEBUG - File.separator = \ 
+28 Sep 16:07:38,474 DEBUG - File.separatorChar = \ 
+28 Sep 16:07:38,474 DEBUG - Properties Instance Was Created 
+28 Sep 16:07:38,475 DEBUG - properties from file : C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties Were Read 
+28 Sep 16:07:38,475 DEBUG - Inside finally 
+28 Sep 16:07:38,475 DEBUG - BufferedReader(bufferedReader) Instance Closed 
+28 Sep 16:07:38,476 DEBUG - keyValue being returned = xyc52sk8fnkc954nvcpspb52 
+28 Sep 16:07:38,476 DEBUG - Exiting read method 
+28 Sep 16:07:38,476 DEBUG - read method invoked 
+28 Sep 16:07:38,476 INFO - fileName = C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties 
+28 Sep 16:07:38,477 INFO - key = base-uri 
+28 Sep 16:07:38,477 DEBUG - Inside try 
+28 Sep 16:07:38,478 DEBUG - File : C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties Was Opened For Reading 
+28 Sep 16:07:38,478 DEBUG - File.separator = \ 
+28 Sep 16:07:38,478 DEBUG - File.separatorChar = \ 
+28 Sep 16:07:38,478 DEBUG - Properties Instance Was Created 
+28 Sep 16:07:38,479 DEBUG - properties from file : C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties Were Read 
+28 Sep 16:07:38,479 DEBUG - Inside finally 
+28 Sep 16:07:38,479 DEBUG - BufferedReader(bufferedReader) Instance Closed 
+28 Sep 16:07:38,480 DEBUG - keyValue being returned = http://localhost 
+28 Sep 16:07:38,480 DEBUG - Exiting read method 
+28 Sep 16:07:38,480 DEBUG - read method invoked 
+28 Sep 16:07:38,481 INFO - fileName = C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties 
+28 Sep 16:07:38,481 INFO - key = jira_port 
+28 Sep 16:07:38,481 DEBUG - Inside try 
+28 Sep 16:07:38,481 DEBUG - File : C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties Was Opened For Reading 
+28 Sep 16:07:38,482 DEBUG - File.separator = \ 
+28 Sep 16:07:38,482 DEBUG - File.separatorChar = \ 
+28 Sep 16:07:38,482 DEBUG - Properties Instance Was Created 
+28 Sep 16:07:38,483 DEBUG - properties from file : C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties Were Read 
+28 Sep 16:07:38,483 DEBUG - Inside finally 
+28 Sep 16:07:38,483 DEBUG - BufferedReader(bufferedReader) Instance Closed 
+28 Sep 16:07:38,483 DEBUG - keyValue being returned = 8080 
+28 Sep 16:07:38,483 DEBUG - Exiting read method 
+28 Sep 16:07:46,876 DEBUG - Get connection for route {s}->https://api.spacexdata.com:443 
+28 Sep 16:07:47,091 DEBUG - Connecting to api.spacexdata.com:443 
+28 Sep 16:07:50,410 DEBUG - CookieSpec selected: ignoreCookies 
+28 Sep 16:07:50,414 DEBUG - Auth cache not set in the context 
+28 Sep 16:07:50,414 DEBUG - Target auth state: UNCHALLENGED 
+28 Sep 16:07:50,415 DEBUG - Proxy auth state: UNCHALLENGED 
+28 Sep 16:07:50,415 DEBUG - Attempt 1 to execute request 
+28 Sep 16:07:50,416 DEBUG - Sending request: GET /v4/launches/latest HTTP/1.1 
+28 Sep 16:07:50,416 DEBUG -  >> "GET /v4/launches/latest HTTP/1.1[\r][\n]" 
+28 Sep 16:07:50,418 DEBUG -  >> "Accept: */*[\r][\n]" 
+28 Sep 16:07:50,418 DEBUG -  >> "Content-Length: 0[\r][\n]" 
+28 Sep 16:07:50,418 DEBUG -  >> "Host: api.spacexdata.com[\r][\n]" 
+28 Sep 16:07:50,419 DEBUG -  >> "Connection: Keep-Alive[\r][\n]" 
+28 Sep 16:07:50,419 DEBUG -  >> "User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_60)[\r][\n]" 
+28 Sep 16:07:50,419 DEBUG -  >> "Accept-Encoding: gzip,deflate[\r][\n]" 
+28 Sep 16:07:50,419 DEBUG -  >> "[\r][\n]" 
+28 Sep 16:07:50,420 DEBUG - >> GET /v4/launches/latest HTTP/1.1 
+28 Sep 16:07:50,420 DEBUG - >> Accept: */* 
+28 Sep 16:07:50,420 DEBUG - >> Content-Length: 0 
+28 Sep 16:07:50,420 DEBUG - >> Host: api.spacexdata.com 
+28 Sep 16:07:50,420 DEBUG - >> Connection: Keep-Alive 
+28 Sep 16:07:50,421 DEBUG - >> User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_60) 
+28 Sep 16:07:50,421 DEBUG - >> Accept-Encoding: gzip,deflate 
+28 Sep 16:07:51,030 DEBUG -  << "HTTP/1.1 200 OK[\r][\n]" 
+28 Sep 16:07:51,034 DEBUG -  << "Date: Mon, 28 Sep 2020 10:37:50 GMT[\r][\n]" 
+28 Sep 16:07:51,034 DEBUG -  << "Content-Type: application/json; charset=utf-8[\r][\n]" 
+28 Sep 16:07:51,035 DEBUG -  << "Transfer-Encoding: chunked[\r][\n]" 
+28 Sep 16:07:51,035 DEBUG -  << "Connection: keep-alive[\r][\n]" 
+28 Sep 16:07:51,035 DEBUG -  << "Set-Cookie: __cfduid=da2114bf7610397b886fe79b2a396135e1601289470; expires=Wed, 28-Oct-20 10:37:50 GMT; path=/; domain=.spacexdata.com; HttpOnly; SameSite=Lax; Secure[\r][\n]" 
+28 Sep 16:07:51,035 DEBUG -  << "access-control-allow-origin: *[\r][\n]" 
+28 Sep 16:07:51,036 DEBUG -  << "access-control-expose-headers: spacex-api-cache,spacex-api-response-time[\r][\n]" 
+28 Sep 16:07:51,036 DEBUG -  << "cache-control: max-age=20[\r][\n]" 
+28 Sep 16:07:51,036 DEBUG -  << "etag: W/"7c4-RYScSo2ZAjOd7bO04jITb5cLLUs"[\r][\n]" 
+28 Sep 16:07:51,036 DEBUG -  << "spacex-api-cache: MISS[\r][\n]" 
+28 Sep 16:07:51,037 DEBUG -  << "spacex-api-cache-online: true[\r][\n]" 
+28 Sep 16:07:51,037 DEBUG -  << "spacex-api-response-time: 4ms[\r][\n]" 
+28 Sep 16:07:51,037 DEBUG -  << "strict-transport-security: max-age=15552000; includeSubDomains[\r][\n]" 
+28 Sep 16:07:51,037 DEBUG -  << "vary: Origin[\r][\n]" 
+28 Sep 16:07:51,038 DEBUG -  << "x-content-type-options: nosniff[\r][\n]" 
+28 Sep 16:07:51,038 DEBUG -  << "x-dns-prefetch-control: off[\r][\n]" 
+28 Sep 16:07:51,038 DEBUG -  << "x-download-options: noopen[\r][\n]" 
+28 Sep 16:07:51,038 DEBUG -  << "x-frame-options: SAMEORIGIN[\r][\n]" 
+28 Sep 16:07:51,038 DEBUG -  << "x-xss-protection: 1; mode=block[\r][\n]" 
+28 Sep 16:07:51,039 DEBUG -  << "CF-Cache-Status: DYNAMIC[\r][\n]" 
+28 Sep 16:07:51,039 DEBUG -  << "cf-request-id: 0575e35a2d00001d933a050200000001[\r][\n]" 
+28 Sep 16:07:51,039 DEBUG -  << "Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"[\r][\n]" 
+28 Sep 16:07:51,039 DEBUG -  << "Server: cloudflare[\r][\n]" 
+28 Sep 16:07:51,040 DEBUG -  << "CF-RAY: 5d9cd4d6abd91d93-NRT[\r][\n]" 
+28 Sep 16:07:51,040 DEBUG -  << "Content-Encoding: gzip[\r][\n]" 
+28 Sep 16:07:51,040 DEBUG -  << "alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400[\r][\n]" 
+28 Sep 16:07:51,040 DEBUG -  << "[\r][\n]" 
+28 Sep 16:07:51,042 DEBUG - Receiving response: HTTP/1.1 200 OK 
+28 Sep 16:07:51,043 DEBUG - << HTTP/1.1 200 OK 
+28 Sep 16:07:51,049 DEBUG - << Date: Mon, 28 Sep 2020 10:37:50 GMT 
+28 Sep 16:07:51,049 DEBUG - << Content-Type: application/json; charset=utf-8 
+28 Sep 16:07:51,049 DEBUG - << Transfer-Encoding: chunked 
+28 Sep 16:07:51,052 DEBUG - << Connection: keep-alive 
+28 Sep 16:07:51,053 DEBUG - << Set-Cookie: __cfduid=da2114bf7610397b886fe79b2a396135e1601289470; expires=Wed, 28-Oct-20 10:37:50 GMT; path=/; domain=.spacexdata.com; HttpOnly; SameSite=Lax; Secure 
+28 Sep 16:07:51,053 DEBUG - << access-control-allow-origin: * 
+28 Sep 16:07:51,053 DEBUG - << access-control-expose-headers: spacex-api-cache,spacex-api-response-time 
+28 Sep 16:07:51,053 DEBUG - << cache-control: max-age=20 
+28 Sep 16:07:51,053 DEBUG - << etag: W/"7c4-RYScSo2ZAjOd7bO04jITb5cLLUs" 
+28 Sep 16:07:51,053 DEBUG - << spacex-api-cache: MISS 
+28 Sep 16:07:51,054 DEBUG - << spacex-api-cache-online: true 
+28 Sep 16:07:51,054 DEBUG - << spacex-api-response-time: 4ms 
+28 Sep 16:07:51,054 DEBUG - << strict-transport-security: max-age=15552000; includeSubDomains 
+28 Sep 16:07:51,054 DEBUG - << vary: Origin 
+28 Sep 16:07:51,054 DEBUG - << x-content-type-options: nosniff 
+28 Sep 16:07:51,055 DEBUG - << x-dns-prefetch-control: off 
+28 Sep 16:07:51,055 DEBUG - << x-download-options: noopen 
+28 Sep 16:07:51,055 DEBUG - << x-frame-options: SAMEORIGIN 
+28 Sep 16:07:51,055 DEBUG - << x-xss-protection: 1; mode=block 
+28 Sep 16:07:51,055 DEBUG - << CF-Cache-Status: DYNAMIC 
+28 Sep 16:07:51,055 DEBUG - << cf-request-id: 0575e35a2d00001d933a050200000001 
+28 Sep 16:07:51,056 DEBUG - << Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct" 
+28 Sep 16:07:51,056 DEBUG - << Server: cloudflare 
+28 Sep 16:07:51,056 DEBUG - << CF-RAY: 5d9cd4d6abd91d93-NRT 
+28 Sep 16:07:51,056 DEBUG - << Content-Encoding: gzip 
+28 Sep 16:07:51,056 DEBUG - << alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400 
+28 Sep 16:07:51,215 DEBUG - Connection can be kept alive indefinitely 
+28 Sep 16:07:51,288 DEBUG - Parsing response as: application/json; charset=utf-8 
+28 Sep 16:07:51,301 DEBUG -  << "3f6[\r][\n]" 
+28 Sep 16:07:51,301 DEBUG -  << "[0x1f]" 
+28 Sep 16:07:51,302 DEBUG -  << "[0x8b]" 
+28 Sep 16:07:51,302 DEBUG -  << "[0x8]" 
+28 Sep 16:07:51,302 DEBUG -  << "[0x0]" 
+28 Sep 16:07:51,302 DEBUG -  << "[0x0][0x0][0x0][0x0][0x0][0x3]" 
+28 Sep 16:07:51,302 DEBUG - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream 
+28 Sep 16:07:52,280 DEBUG -  << "[0x94]Umo[0xa4]6[0x10][0xfe]+[0x96]?[0xb5][0x12][0x1][0x3][0xbb][0x4][0xf8]vJ_[0xa5][0xeb][0x87]6[0x91]N[0xed])B[0x83]=[0x80]o[0x8d][0x8d]l[0x13][0x92][0x8b][0xf2][0xdf]+[0xc3][0xee]f[0x93]V[0xad][0xee][0x9b]=[0xe3][0x99][0xe7][0x99]W?[0xd3][0xe][0xa4][0x95][0xba]w[0xb4]~[0xa6][0x16]g[0x87][0x82][0xd6]zV*[0xa2][0x16][0xb9]y@[0xfb][0xd4][0x80][0xf7]8N[0x9e][0xd6][0xde][0xce]x[0x96][0xbf]>t[0x83][0x9c][0x1c][0xad]?[0xd3]=B[0x81]"CV2[0xd1][0xed][0x18]cEu[0xcd]+V[0xd2][0xfb][0x97][0x88]*[0xa9][0xf]+[0xca][0x4][0x9e][0xf][0xe1][0xe0]FP[0x8a][0xd6]t[0xf0]~ru[0x92][0xc8][0x11]ztY,[0xc7][0xbe]5[0x8f]17cRAR[0x15][0x89][0xfe]8M_[0xab]_>5&[0x9e]tO#[0xaa][0xc0][0xf6][0xf8][0xdf][0x96]"K[0xf2]6i[0x87]OR*v[0xb4]|[0x9][0xec][0x85][0x90]>[0xc0]s[0x18]'[0x90][0xbd][0xbe][0xf0][0xb3],K[0xbc]=X" 
+28 Sep 16:07:52,285 DEBUG -  << "}[0xd8][0xc4]M[0xc0][0xf1]1[0xe1]f[0x1c]Q{[0x97][0xc8]"o[0x9d]O[0x9c][0x7][0x1b][0xe2]iz[0xd4]hA5B:>;'[0x8d]n@[0x8b]F[0xe0][0xa4][0xcc]S0i[0xfc]`[0x11]D[0xb2][0x92][0x9e]u[0x8][0xfc][0x1b][0xd0][0xe4]T[0xe]yb7ysBM[0xd3]f[0xf3]u[0x9];O[0x2]<[0xba][0x0]4[0xa2][0x90][0xf0]M8_[0xca][0xf1][0xb1][0xfb]7[0x1c][0x7][0x86][0x9b][0xb1]I[0xdb]fuz[0x11][0xcd][0xa9];[0xb6]&x[0x89]h[0xa7]$?[0xd8][0x8b][0xba]~[0xbe][0x8f][0xa8][0xb1][0xb2][0x97][0x1a][0xd6][0xdb]KD'[0x8b][0xce][0x1d]B[0xfa][0xb7][0xce]Y[0xb0][0xe5][0xe0][0xfc][0x5][0xd7]'3[0xfb]9n1i[0xbe][0xec][0x1e][0xff][0xb8][0xfe][0xf8][0xdb][0xcd][0xcf][0xd2][0x88][0xae][0xe2][0x16][0x1b])hM[0xdf][0xaa][0xc0]z[0xc9][0x15][0x9e]][0xca][0x83][0x9c][0xde]%[0x0]u|[0x16][0xc7][0xc6][0xf6]I[0xb8]%[0xb7][0xc7]0CW8[0xf]^[0xf2][0xa6][0x93][0x16][0x9b][0x90][0xc7]f[0xf6][0xfc][0xdc][0xde][0xff][0xd0]i[0xf9]xR[0xfa]V[0xd0][0xba][0x3][0xe5]0[0xa2][0x1a][0xfd][0xf9][0xbc]H-[0xcc]r[0x1e]%[0xc3][0xf]AI[0xf7]X[0x9]&[0xaa]=[\n]" 
+28 Sep 16:07:52,286 DEBUG -  << "([0xaa][0xea]:[0x87][0x92]U"EN#[0xea]f[0xce][0xd1][0xb9][0xd3][0x94][0x9][0xf4] [0x95][0xa3]5[0xbd][0x1b][0xa4]#[0xa3]\[0xcb]L[0x16][0xa9][0x14][0xd9][0xaa]O[0xfc][0x80][0x4][0x15]>[0xa0][0xf6][0x3]i[0xc3]T[0x11][0xd3][0x11]3[0xa1][0x5]/[0x8d][0x6]EN![0x12][0x7][0x1e][0x95][0x92][0x1e]]D[0x96]A[0xf2][0x81][0x80]E[0x82][0x8f][0x13]r[0x8f][0x82]xCZ$[0xf]hW[0x8c]4f[0x11][0xe9][0xac][0x19][0xc9][0xed][0xc7][0x9b][0xab][0x1d][0x8b][0xc8][\r]LHn@[0xc3]C[0xe8]v[0xf2]AZ[0xf2][0x93][0xb1][0x1c][0x3]@[0x80][0x8a][0xc9][0xaf][0x9e]H[0xb7]2[0xf2][0xb][0xaa][0xce][0xf][0xaf][0xd8]G[0xb6]f[0xb5]U1[0xb9][0x1b][0xf0][0x82][0xcf][0x16]Q[0x8b]D[0xa0][0x92][0xeb]Z[0x9]l[0x94]Y[0xc8][0x8f]`[0xfd]@[0x8c]m[0xa5]'[0xa0][0xc5][0xf6][0xd0]M[0xa8][0x5][0x1][0xd2][0xe1]B[0x16][0xc4][0x83]##h[0x9c][0x1f]0,[0xb1]`[0xe9][0x7][0x94][0xf6]M[0x12]@y[0xe9]g[0x81]!9[0xfb]=#[0x87]q[0xe3][0xd0][0x1a][0xe3]<Z[0xd2][0x19]K[0xfc]e[0x8e][0xa5]{[0x93][0x19][0x15][0xc0][0x8d]&[0xa0][0xc9][0x87][0xdb][0x1f]nc[0x1a]Qnq[0xd9][0x1a][0xfc][0xff]w_tRu[0xef]T[0xed][0xaa][0xc2][0xa2][0xe4]E[0x99][0xf3],+[0xbb][0xbc]h[0xc5][0xbe]" 
+28 Sep 16:07:52,287 DEBUG -  << "dU[0xbb][0xa7][0xf7][0x11][0xe5]0[0xb9]Y[0xa1][0xdb][0x80]&xR[0x6][0xc4][0x11][0xab]+`W0[0xc6][0xf6][0x15][0xcf]s[0x8e][0xb8][0x83]2[0xab]0Xm[0xd9][0x9e]@l[0xdd][0x86][0xbb]=[0xcb][0xba]=[0xab]X[0xb5]K[0xcb]r_[0x14]][0x19]8[0xc1][0xec][0xcd]qg[0x9c]:[0xae][0x3][0xa9]f{[0xc2][0xeb][0x94][0xec][0x7][0xdf][0xe8]yl[0xd1][0xd2]:eYD5[0x8c]a[0xeb][0x9e]*{[0x95][0xa6][0xe4][0xbb][0x87]4f[0xdf][0xd3][0x88][0xbe]N[\r][0xcd]X[0xc6][0xae]Xu[0xc5][0xf2][0xbb]4[0xab]wE[0xcd]X[0xcc][0x18][0xfb][0xeb][0xfc]j[0x9d][0x9f]t_Ui~[0x9d][0x16][0xec](V[0x86][0x87]Eqi[0xce][0xca][0xcd][0xfc][0x8a][0xed]j[0xc6]N[0xf6][0x93]E.C[0xa5][0xc2][0x88][0x9b][0xd9][0xd2][0x88][0xce][0x13]7[0xa3][0xd4][0xfd]y[0xfe][0xb8][0xd9]"y^Ok.[0xba][0xe2][0x9a]u[0xe9][0xdb][0x9c][0x15]a[0xf2][0xb6]Pi[0x9d]E[0xb4][0xb7]RtR[0x9f][0xa7]Pa[0xef]^[0xff][0xbd][0xed]w<j@[0xb][0xa9][0xfb][0xf7][0x9f][0xe3]I[0xfc]n[0x9a]Ob[0xff]4[0x5]2[0xa1][0x8f][0xe8]&}[0xad]T[0xce][0xf2],/s[0xe4]m[0xd1][0xb6]Y[0xbe][0xc3]k[0xe][0xf4][0xe5]>[0xa2]R[0x1c][0xf9]C[0x8a][0xd5][[0xfe]%[0xd0][0x97][0xbf][0x1][0x0][0x0][0xff][0xff][0x3][0x0][0xd0][0x95][0x11][0xe3][0xc4][0x7][0x0][0x0]" 
+28 Sep 16:07:52,612 DEBUG -  << "[\r][\n]" 
+28 Sep 16:07:52,613 DEBUG -  << "0[\r][\n]" 
+28 Sep 16:07:52,614 DEBUG -  << "[\r][\n]" 
+28 Sep 16:07:52,614 DEBUG - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@4690f583 
+28 Sep 16:07:52,614 DEBUG - Connection can be kept alive indefinitely 
+28 Sep 16:07:55,793 DEBUG - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it. 
+28 Sep 16:07:55,798 DEBUG - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found 
+28 Sep 16:07:55,802 DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found 
+28 Sep 16:07:55,804 DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found 
+28 Sep 16:07:55,805 DEBUG - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Nokia/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl" 
+28 Sep 16:07:56,833 DEBUG - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it. 
+28 Sep 16:07:56,834 DEBUG - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found 
+28 Sep 16:07:56,835 DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found 
+28 Sep 16:07:56,840 DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found 
+28 Sep 16:07:56,841 DEBUG - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Nokia/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl" 
+28 Sep 16:07:57,343 DEBUG - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it. 
+28 Sep 16:07:57,368 DEBUG - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found 
+28 Sep 16:07:57,371 DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found 
+28 Sep 16:07:57,372 DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found 
+28 Sep 16:07:57,372 DEBUG - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Nokia/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl" 
+28 Sep 16:07:57,812 DEBUG - Get connection for route {s}->https://api.spacexdata.com:443 
+28 Sep 16:07:57,813 DEBUG - Connecting to api.spacexdata.com:443 
+28 Sep 16:08:01,433 DEBUG - CookieSpec selected: ignoreCookies 
+28 Sep 16:08:01,433 DEBUG - Auth cache not set in the context 
+28 Sep 16:08:01,433 DEBUG - Target auth state: UNCHALLENGED 
+28 Sep 16:08:01,433 DEBUG - Proxy auth state: UNCHALLENGED 
+28 Sep 16:08:01,433 DEBUG - Attempt 1 to execute request 
+28 Sep 16:08:01,433 DEBUG - Sending request: GET /v4/launches/latest HTTP/1.1 
+28 Sep 16:08:01,434 DEBUG -  >> "GET /v4/launches/latest HTTP/1.1[\r][\n]" 
+28 Sep 16:08:01,434 DEBUG -  >> "Accept: */*[\r][\n]" 
+28 Sep 16:08:01,434 DEBUG -  >> "Content-Length: 0[\r][\n]" 
+28 Sep 16:08:01,434 DEBUG -  >> "Host: api.spacexdata.com[\r][\n]" 
+28 Sep 16:08:01,434 DEBUG -  >> "Connection: Keep-Alive[\r][\n]" 
+28 Sep 16:08:01,435 DEBUG -  >> "User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_60)[\r][\n]" 
+28 Sep 16:08:01,435 DEBUG -  >> "Accept-Encoding: gzip,deflate[\r][\n]" 
+28 Sep 16:08:01,435 DEBUG -  >> "[\r][\n]" 
+28 Sep 16:08:01,435 DEBUG - >> GET /v4/launches/latest HTTP/1.1 
+28 Sep 16:08:01,435 DEBUG - >> Accept: */* 
+28 Sep 16:08:01,435 DEBUG - >> Content-Length: 0 
+28 Sep 16:08:01,436 DEBUG - >> Host: api.spacexdata.com 
+28 Sep 16:08:01,436 DEBUG - >> Connection: Keep-Alive 
+28 Sep 16:08:01,436 DEBUG - >> User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_60) 
+28 Sep 16:08:01,436 DEBUG - >> Accept-Encoding: gzip,deflate 
+28 Sep 16:08:01,749 DEBUG -  << "HTTP/1.1 200 OK[\r][\n]" 
+28 Sep 16:08:01,750 DEBUG -  << "Date: Mon, 28 Sep 2020 10:38:01 GMT[\r][\n]" 
+28 Sep 16:08:01,750 DEBUG -  << "Content-Type: application/json; charset=utf-8[\r][\n]" 
+28 Sep 16:08:01,750 DEBUG -  << "Transfer-Encoding: chunked[\r][\n]" 
+28 Sep 16:08:01,750 DEBUG -  << "Connection: keep-alive[\r][\n]" 
+28 Sep 16:08:01,751 DEBUG -  << "Set-Cookie: __cfduid=d55906125252332cb27c2d4491ba010d71601289481; expires=Wed, 28-Oct-20 10:38:01 GMT; path=/; domain=.spacexdata.com; HttpOnly; SameSite=Lax; Secure[\r][\n]" 
+28 Sep 16:08:01,751 DEBUG -  << "Access-Control-Allow-Origin: *[\r][\n]" 
+28 Sep 16:08:01,751 DEBUG -  << "Access-Control-Expose-Headers: spacex-api-cache,spacex-api-response-time[\r][\n]" 
+28 Sep 16:08:01,751 DEBUG -  << "Cache-Control: max-age=20[\r][\n]" 
+28 Sep 16:08:01,751 DEBUG -  << "Etag: W/"7c4-RYScSo2ZAjOd7bO04jITb5cLLUs"[\r][\n]" 
+28 Sep 16:08:01,752 DEBUG -  << "Spacex-Api-Cache: HIT[\r][\n]" 
+28 Sep 16:08:01,752 DEBUG -  << "Spacex-Api-Cache-Online: true[\r][\n]" 
+28 Sep 16:08:01,752 DEBUG -  << "Spacex-Api-Response-Time: 1ms[\r][\n]" 
+28 Sep 16:08:01,752 DEBUG -  << "Strict-Transport-Security: max-age=15552000; includeSubDomains[\r][\n]" 
+28 Sep 16:08:01,752 DEBUG -  << "Vary: Origin[\r][\n]" 
+28 Sep 16:08:01,753 DEBUG -  << "X-Content-Type-Options: nosniff[\r][\n]" 
+28 Sep 16:08:01,753 DEBUG -  << "X-Dns-Prefetch-Control: off[\r][\n]" 
+28 Sep 16:08:01,753 DEBUG -  << "X-Download-Options: noopen[\r][\n]" 
+28 Sep 16:08:01,753 DEBUG -  << "X-Frame-Options: SAMEORIGIN[\r][\n]" 
+28 Sep 16:08:01,753 DEBUG -  << "X-Xss-Protection: 1; mode=block[\r][\n]" 
+28 Sep 16:08:01,753 DEBUG -  << "CF-Cache-Status: DYNAMIC[\r][\n]" 
+28 Sep 16:08:01,754 DEBUG -  << "cf-request-id: 0575e3853900001d8bb3252200000001[\r][\n]" 
+28 Sep 16:08:01,754 DEBUG -  << "Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"[\r][\n]" 
+28 Sep 16:08:01,754 DEBUG -  << "Server: cloudflare[\r][\n]" 
+28 Sep 16:08:01,754 DEBUG -  << "CF-RAY: 5d9cd51b8a381d8b-NRT[\r][\n]" 
+28 Sep 16:08:01,754 DEBUG -  << "Content-Encoding: gzip[\r][\n]" 
+28 Sep 16:08:01,755 DEBUG -  << "alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400[\r][\n]" 
+28 Sep 16:08:01,755 DEBUG -  << "[\r][\n]" 
+28 Sep 16:08:01,755 DEBUG - Receiving response: HTTP/1.1 200 OK 
+28 Sep 16:08:01,755 DEBUG - << HTTP/1.1 200 OK 
+28 Sep 16:08:01,755 DEBUG - << Date: Mon, 28 Sep 2020 10:38:01 GMT 
+28 Sep 16:08:01,755 DEBUG - << Content-Type: application/json; charset=utf-8 
+28 Sep 16:08:01,755 DEBUG - << Transfer-Encoding: chunked 
+28 Sep 16:08:01,755 DEBUG - << Connection: keep-alive 
+28 Sep 16:08:01,756 DEBUG - << Set-Cookie: __cfduid=d55906125252332cb27c2d4491ba010d71601289481; expires=Wed, 28-Oct-20 10:38:01 GMT; path=/; domain=.spacexdata.com; HttpOnly; SameSite=Lax; Secure 
+28 Sep 16:08:01,756 DEBUG - << Access-Control-Allow-Origin: * 
+28 Sep 16:08:01,756 DEBUG - << Access-Control-Expose-Headers: spacex-api-cache,spacex-api-response-time 
+28 Sep 16:08:01,756 DEBUG - << Cache-Control: max-age=20 
+28 Sep 16:08:01,756 DEBUG - << Etag: W/"7c4-RYScSo2ZAjOd7bO04jITb5cLLUs" 
+28 Sep 16:08:01,756 DEBUG - << Spacex-Api-Cache: HIT 
+28 Sep 16:08:01,756 DEBUG - << Spacex-Api-Cache-Online: true 
+28 Sep 16:08:01,757 DEBUG - << Spacex-Api-Response-Time: 1ms 
+28 Sep 16:08:01,757 DEBUG - << Strict-Transport-Security: max-age=15552000; includeSubDomains 
+28 Sep 16:08:01,757 DEBUG - << Vary: Origin 
+28 Sep 16:08:01,757 DEBUG - << X-Content-Type-Options: nosniff 
+28 Sep 16:08:01,757 DEBUG - << X-Dns-Prefetch-Control: off 
+28 Sep 16:08:01,757 DEBUG - << X-Download-Options: noopen 
+28 Sep 16:08:01,757 DEBUG - << X-Frame-Options: SAMEORIGIN 
+28 Sep 16:08:01,758 DEBUG - << X-Xss-Protection: 1; mode=block 
+28 Sep 16:08:01,758 DEBUG - << CF-Cache-Status: DYNAMIC 
+28 Sep 16:08:01,758 DEBUG - << cf-request-id: 0575e3853900001d8bb3252200000001 
+28 Sep 16:08:01,758 DEBUG - << Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct" 
+28 Sep 16:08:01,758 DEBUG - << Server: cloudflare 
+28 Sep 16:08:01,758 DEBUG - << CF-RAY: 5d9cd51b8a381d8b-NRT 
+28 Sep 16:08:01,758 DEBUG - << Content-Encoding: gzip 
+28 Sep 16:08:01,759 DEBUG - << alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400 
+28 Sep 16:08:01,759 DEBUG - Connection can be kept alive indefinitely 
+28 Sep 16:08:01,760 DEBUG - Parsing response as: application/json; charset=utf-8 
+28 Sep 16:08:01,760 DEBUG -  << "3f6[\r][\n]" 
+28 Sep 16:08:01,760 DEBUG -  << "[0x1f]" 
+28 Sep 16:08:01,760 DEBUG -  << "[0x8b]" 
+28 Sep 16:08:01,760 DEBUG -  << "[0x8]" 
+28 Sep 16:08:01,761 DEBUG -  << "[0x0]" 
+28 Sep 16:08:01,761 DEBUG -  << "[0x0][0x0][0x0][0x0][0x0][0x3]" 
+28 Sep 16:08:01,761 DEBUG - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream 
+28 Sep 16:08:01,765 DEBUG -  << "[0x94]Umo[0xa4]6[0x10][0xfe]+[0x96]?[0xb5][0x12][0x1][0x3][0xbb][0x4][0xf8]vJ_[0xa5][0xeb][0x87]6[0x91]N[0xed])B[0x83]=[0x80]o[0x8d][0x8d]l[0x13][0x92][0x8b][0xf2][0xdf]+[0xc3][0xee]f[0x93]V[0xad][0xee][0x9b]=[0xe3][0x99][0xe7][0x99]W?[0xd3][0xe][0xa4][0x95][0xba]w[0xb4]~[0xa6][0x16]g[0x87][0x82][0xd6]zV*[0xa2][0x16][0xb9]y@[0xfb][0xd4][0x80][0xf7]8N[0x9e][0xd6][0xde][0xce]x[0x96][0xbf]>t[0x83][0x9c][0x1c][0xad]?[0xd3]=B[0x81]"CV2[0xd1][0xed][0x18]cEu[0xcd]+V[0xd2][0xfb][0x97][0x88]*[0xa9][0xf]+[0xca][0x4][0x9e][0xf][0xe1][0xe0]FP[0x8a][0xd6]t[0xf0]~ru[0x92][0xc8][0x11]ztY,[0xc7][0xbe]5[0x8f]17cRAR[0x15][0x89][0xfe]8M_[0xab]_>5&[0x9e]tO#[0xaa][0xc0][0xf6][0xf8][0xdf][0x96]"K[0xf2]6i[0x87]OR*v[0xb4]|[0x9][0xec][0x85][0x90]>[0xc0]s[0x18]'[0x90][0xbd][0xbe][0xf0][0xb3],K[0xbc]=X}" 
+28 Sep 16:08:01,766 DEBUG -  << "[0xd8][0xc4]M[0xc0][0xf1]1[0xe1]f[0x1c]Q{[0x97][0xc8]"o[0x9d]O[0x9c][0x7][0x1b][0xe2]iz[0xd4]hA5B:>;'[0x8d]n@[0x8b]F[0xe0][0xa4][0xcc]S0i[0xfc]`[0x11]D[0xb2][0x92][0x9e]u[0x8][0xfc][0x1b][0xd0][0xe4]T[0xe]yb7ysBM[0xd3]f[0xf3]u[0x9];O[0x2]<[0xba][0x0]4[0xa2][0x90][0xf0]M8_[0xca][0xf1][0xb1][0xfb]7[0x1c][0x7][0x86][0x9b][0xb1]I[0xdb]fuz[0x11][0xcd][0xa9];[0xb6]&x[0x89]h[0xa7]$?[0xd8][0x8b][0xba]~[0xbe][0x8f][0xa8][0xb1][0xb2][0x97][0x1a][0xd6][0xdb]KD'[0x8b][0xce][0x1d]B[0xfa][0xb7][0xce]Y[0xb0][0xe5][0xe0][0xfc][0x5][0xd7]'3[0xfb]9n1i[0xbe][0xec][0x1e][0xff][0xb8][0xfe][0xf8][0xdb][0xcd][0xcf][0xd2][0x88][0xae][0xe2][0x16][0x1b])hM[0xdf][0xaa][0xc0]z[0xc9][0x15][0x9e]][0xca][0x83][0x9c][0xde]%[0x0]u|[0x16][0xc7][0xc6][0xf6]I[0xb8]%[0xb7][0xc7]0CW8[0xf]^[0xf2][0xa6][0x93][0x16][0x9b][0x90][0xc7]f[0xf6][0xfc][0xdc][0xde][0xff][0xd0]i[0xf9]xR[0xfa]V[0xd0][0xba][0x3][0xe5]0[0xa2][0x1a][0xfd][0xf9][0xbc]H-[0xcc]r[0x1e]%[0xc3][0xf]AI[0xf7]X[0x9]&[0xaa]=[\n]" 
+28 Sep 16:08:01,767 DEBUG -  << "([0xaa][0xea]:[0x87][0x92]U"EN#[0xea]f[0xce][0xd1][0xb9][0xd3][0x94][0x9][0xf4] [0x95][0xa3]5[0xbd][0x1b][0xa4]#[0xa3]\[0xcb]L[0x16][0xa9][0x14][0xd9][0xaa]O[0xfc][0x80][0x4][0x15]>[0xa0][0xf6][0x3]i[0xc3]T[0x11][0xd3][0x11]3[0xa1][0x5]/[0x8d][0x6]EN![0x12][0x7][0x1e][0x95][0x92][0x1e]]D[0x96]A[0xf2][0x81][0x80]E[0x82][0x8f][0x13]r[0x8f][0x82]xCZ$[0xf]hW[0x8c]4f[0x11][0xe9][0xac][0x19][0xc9][0xed][0xc7][0x9b][0xab][0x1d][0x8b][0xc8][\r]LHn@[0xc3]C[0xe8]v[0xf2]AZ[0xf2][0x93][0xb1][0x1c][0x3]@[0x80][0x8a][0xc9][0xaf][0x9e]H[0xb7]2[0xf2][0xb][0xaa][0xce][0xf][0xaf][0xd8]G[0xb6]f[0xb5]U1[0xb9][0x1b][0xf0][0x82][0xcf][0x16]Q[0x8b]D[0xa0][0x92][0xeb]Z[0x9]l[0x94]Y[0xc8][0x8f]`[0xfd]@[0x8c]m[0xa5]'[0xa0][0xc5][0xf6][0xd0]M[0xa8][0x5][0x1][0xd2][0xe1]B[0x16][0xc4][0x83]##h[0x9c][0x1f]0,[0xb1]`[0xe9][0x7][0x94][0xf6]M[0x12]@y[0xe9]g[0x81]!9[0xfb]=#[0x87]q[0xe3][0xd0][0x1a][0xe3]<Z[0xd2][0x19]K[0xfc]e[0x8e][0xa5]{[0x93][0x19][0x15][0xc0][0x8d]&[0xa0][0xc9][0x87][0xdb][0x1f]nc[0x1a]Qnq[0xd9][0x1a][0xfc][0xff]w_tRu[0xef]T[0xed][0xaa][0xc2][0xa2][0xe4]E[0x99][0xf3],+[0xbb][0xbc]h[0xc5][0xbe]d" 
+28 Sep 16:08:01,767 DEBUG -  << "U[0xbb][0xa7][0xf7][0x11][0xe5]0[0xb9]Y[0xa1][0xdb][0x80]&xR[0x6][0xc4][0x11][0xab]+`W0[0xc6][0xf6][0x15][0xcf]s[0x8e][0xb8][0x83]2[0xab]0Xm[0xd9][0x9e]@l[0xdd][0x86][0xbb]=[0xcb][0xba]=[0xab]X[0xb5]K[0xcb]r_[0x14]][0x19]8[0xc1][0xec][0xcd]qg[0x9c]:[0xae][0x3][0xa9]f{[0xc2][0xeb][0x94][0xec][0x7][0xdf][0xe8]yl[0xd1][0xd2]:eYD5[0x8c]a[0xeb][0x9e]*{[0x95][0xa6][0xe4][0xbb][0x87]4f[0xdf][0xd3][0x88][0xbe]N[\r][0xcd]X[0xc6][0xae]Xu[0xc5][0xf2][0xbb]4[0xab]wE[0xcd]X[0xcc][0x18][0xfb][0xeb][0xfc]j[0x9d][0x9f]t_Ui~[0x9d][0x16][0xec](V[0x86][0x87]Eqi[0xce][0xca][0xcd][0xfc][0x8a][0xed]j[0xc6]N[0xf6][0x93]E.C[0xa5][0xc2][0x88][0x9b][0xd9][0xd2][0x88][0xce][0x13]7[0xa3][0xd4][0xfd]y[0xfe][0xb8][0xd9]"y^Ok.[0xba][0xe2][0x9a]u[0xe9][0xdb][0x9c][0x15]a[0xf2][0xb6]Pi[0x9d]E[0xb4][0xb7]RtR[0x9f][0xa7]Pa[0xef]^[0xff][0xbd][0xed]w<j@[0xb][0xa9][0xfb][0xf7][0x9f][0xe3]I[0xfc]n[0x9a]Ob[0xff]4[0x5]2[0xa1][0x8f][0xe8]&}[0xad]T[0xce][0xf2],/s[0xe4]m[0xd1][0xb6]Y[0xbe][0xc3]k[0xe][0xf4][0xe5]>[0xa2]R[0x1c][0xf9]C[0x8a][0xd5][[0xfe]%[0xd0][0x97][0xbf][0x1][0x0][0x0][0xff][0xff][0x3][0x0][0xd0][0x95][0x11][0xe3][0xc4][0x7][0x0][0x0]" 
+28 Sep 16:08:01,768 DEBUG -  << "[\r][\n]" 
+28 Sep 16:08:01,768 DEBUG -  << "0[\r][\n]" 
+28 Sep 16:08:01,768 DEBUG -  << "[\r][\n]" 
+28 Sep 16:08:01,768 DEBUG - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@3162743f 
+28 Sep 16:08:01,769 DEBUG - Connection can be kept alive indefinitely 
+28 Sep 16:08:04,771 DEBUG - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it. 
+28 Sep 16:08:04,772 DEBUG - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found 
+28 Sep 16:08:04,773 DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found 
+28 Sep 16:08:04,774 DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found 
+28 Sep 16:08:04,774 DEBUG - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Nokia/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl" 
+28 Sep 16:08:04,918 DEBUG - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it. 
+28 Sep 16:08:04,919 DEBUG - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found 
+28 Sep 16:08:04,920 DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found 
+28 Sep 16:08:04,920 DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found 
+28 Sep 16:08:04,921 DEBUG - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Nokia/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl" 
+28 Sep 16:09:15,724 DEBUG - read method invoked 
+28 Sep 16:09:15,727 INFO - fileName = C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties 
+28 Sep 16:09:15,727 INFO - key = automation_report_folder 
+28 Sep 16:09:15,727 DEBUG - Inside try 
+28 Sep 16:09:15,728 DEBUG - File : C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties Was Opened For Reading 
+28 Sep 16:09:15,728 DEBUG - File.separator = \ 
+28 Sep 16:09:15,728 DEBUG - File.separatorChar = \ 
+28 Sep 16:09:15,729 DEBUG - Properties Instance Was Created 
+28 Sep 16:09:15,729 DEBUG - properties from file : C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties Were Read 
+28 Sep 16:09:15,729 DEBUG - Inside finally 
+28 Sep 16:09:15,730 DEBUG - BufferedReader(bufferedReader) Instance Closed 
+28 Sep 16:09:15,730 DEBUG - keyValue being returned = automation-reports 
+28 Sep 16:09:15,730 DEBUG - Exiting read method 
+28 Sep 16:09:15,730 DEBUG - read method invoked 
+28 Sep 16:09:15,731 INFO - fileName = C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties 
+28 Sep 16:09:15,731 INFO - key = test_data_file_location 
+28 Sep 16:09:15,731 DEBUG - Inside try 
+28 Sep 16:09:15,732 DEBUG - File : C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties Was Opened For Reading 
+28 Sep 16:09:15,732 DEBUG - File.separator = \ 
+28 Sep 16:09:15,732 DEBUG - File.separatorChar = \ 
+28 Sep 16:09:15,733 DEBUG - Properties Instance Was Created 
+28 Sep 16:09:15,733 DEBUG - properties from file : C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties Were Read 
+28 Sep 16:09:15,734 DEBUG - Inside finally 
+28 Sep 16:09:15,734 DEBUG - BufferedReader(bufferedReader) Instance Closed 
+28 Sep 16:09:15,734 DEBUG - keyValue being returned = /testdata/TestData.xlsx 
+28 Sep 16:09:15,734 DEBUG - Exiting read method 
+28 Sep 16:09:15,735 DEBUG - read method invoked 
+28 Sep 16:09:15,735 INFO - fileName = C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties 
+28 Sep 16:09:15,735 INFO - key = api_key 
+28 Sep 16:09:15,736 DEBUG - Inside try 
+28 Sep 16:09:15,736 DEBUG - File : C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties Was Opened For Reading 
+28 Sep 16:09:15,736 DEBUG - File.separator = \ 
+28 Sep 16:09:15,736 DEBUG - File.separatorChar = \ 
+28 Sep 16:09:15,737 DEBUG - Properties Instance Was Created 
+28 Sep 16:09:15,737 DEBUG - properties from file : C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties Were Read 
+28 Sep 16:09:15,737 DEBUG - Inside finally 
+28 Sep 16:09:15,738 DEBUG - BufferedReader(bufferedReader) Instance Closed 
+28 Sep 16:09:15,738 DEBUG - keyValue being returned = xyc52sk8fnkc954nvcpspb52 
+28 Sep 16:09:15,738 DEBUG - Exiting read method 
+28 Sep 16:09:15,738 DEBUG - read method invoked 
+28 Sep 16:09:15,738 INFO - fileName = C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties 
+28 Sep 16:09:15,739 INFO - key = base-uri 
+28 Sep 16:09:15,739 DEBUG - Inside try 
+28 Sep 16:09:15,740 DEBUG - File : C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties Was Opened For Reading 
+28 Sep 16:09:15,740 DEBUG - File.separator = \ 
+28 Sep 16:09:15,740 DEBUG - File.separatorChar = \ 
+28 Sep 16:09:15,740 DEBUG - Properties Instance Was Created 
+28 Sep 16:09:15,741 DEBUG - properties from file : C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties Were Read 
+28 Sep 16:09:15,741 DEBUG - Inside finally 
+28 Sep 16:09:15,741 DEBUG - BufferedReader(bufferedReader) Instance Closed 
+28 Sep 16:09:15,741 DEBUG - keyValue being returned = http://localhost 
+28 Sep 16:09:15,741 DEBUG - Exiting read method 
+28 Sep 16:09:15,742 DEBUG - read method invoked 
+28 Sep 16:09:15,742 INFO - fileName = C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties 
+28 Sep 16:09:15,742 INFO - key = jira_port 
+28 Sep 16:09:15,742 DEBUG - Inside try 
+28 Sep 16:09:15,742 DEBUG - File : C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties Was Opened For Reading 
+28 Sep 16:09:15,743 DEBUG - File.separator = \ 
+28 Sep 16:09:15,743 DEBUG - File.separatorChar = \ 
+28 Sep 16:09:15,743 DEBUG - Properties Instance Was Created 
+28 Sep 16:09:15,743 DEBUG - properties from file : C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties Were Read 
+28 Sep 16:09:15,743 DEBUG - Inside finally 
+28 Sep 16:09:15,744 DEBUG - BufferedReader(bufferedReader) Instance Closed 
+28 Sep 16:09:15,744 DEBUG - keyValue being returned = 8080 
+28 Sep 16:09:15,744 DEBUG - Exiting read method 
+28 Sep 16:09:18,563 DEBUG - Get connection for route {s}->https://api.spacexdata.com:443 
+28 Sep 16:09:18,584 DEBUG - Connecting to api.spacexdata.com:443 
+28 Sep 16:09:20,467 DEBUG - CookieSpec selected: ignoreCookies 
+28 Sep 16:09:20,470 DEBUG - Auth cache not set in the context 
+28 Sep 16:09:20,470 DEBUG - Target auth state: UNCHALLENGED 
+28 Sep 16:09:20,471 DEBUG - Proxy auth state: UNCHALLENGED 
+28 Sep 16:09:20,471 DEBUG - Attempt 1 to execute request 
+28 Sep 16:09:20,471 DEBUG - Sending request: GET /v4/launches/latest HTTP/1.1 
+28 Sep 16:09:20,472 DEBUG -  >> "GET /v4/launches/latest HTTP/1.1[\r][\n]" 
+28 Sep 16:09:20,474 DEBUG -  >> "Accept: */*[\r][\n]" 
+28 Sep 16:09:20,474 DEBUG -  >> "Content-Length: 0[\r][\n]" 
+28 Sep 16:09:20,474 DEBUG -  >> "Host: api.spacexdata.com[\r][\n]" 
+28 Sep 16:09:20,474 DEBUG -  >> "Connection: Keep-Alive[\r][\n]" 
+28 Sep 16:09:20,475 DEBUG -  >> "User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_60)[\r][\n]" 
+28 Sep 16:09:20,475 DEBUG -  >> "Accept-Encoding: gzip,deflate[\r][\n]" 
+28 Sep 16:09:20,475 DEBUG -  >> "[\r][\n]" 
+28 Sep 16:09:20,475 DEBUG - >> GET /v4/launches/latest HTTP/1.1 
+28 Sep 16:09:20,476 DEBUG - >> Accept: */* 
+28 Sep 16:09:20,476 DEBUG - >> Content-Length: 0 
+28 Sep 16:09:20,476 DEBUG - >> Host: api.spacexdata.com 
+28 Sep 16:09:20,476 DEBUG - >> Connection: Keep-Alive 
+28 Sep 16:09:20,476 DEBUG - >> User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_60) 
+28 Sep 16:09:20,477 DEBUG - >> Accept-Encoding: gzip,deflate 
+28 Sep 16:09:20,798 DEBUG -  << "HTTP/1.1 200 OK[\r][\n]" 
+28 Sep 16:09:20,801 DEBUG -  << "Date: Mon, 28 Sep 2020 10:39:20 GMT[\r][\n]" 
+28 Sep 16:09:20,801 DEBUG -  << "Content-Type: application/json; charset=utf-8[\r][\n]" 
+28 Sep 16:09:20,801 DEBUG -  << "Transfer-Encoding: chunked[\r][\n]" 
+28 Sep 16:09:20,802 DEBUG -  << "Connection: keep-alive[\r][\n]" 
+28 Sep 16:09:20,802 DEBUG -  << "Set-Cookie: __cfduid=d516346466747062f5f14aaa41c4c48bf1601289560; expires=Wed, 28-Oct-20 10:39:20 GMT; path=/; domain=.spacexdata.com; HttpOnly; SameSite=Lax; Secure[\r][\n]" 
+28 Sep 16:09:20,802 DEBUG -  << "Access-Control-Allow-Origin: *[\r][\n]" 
+28 Sep 16:09:20,802 DEBUG -  << "Access-Control-Expose-Headers: spacex-api-cache,spacex-api-response-time[\r][\n]" 
+28 Sep 16:09:20,802 DEBUG -  << "Cache-Control: max-age=20[\r][\n]" 
+28 Sep 16:09:20,802 DEBUG -  << "Etag: W/"7c4-RYScSo2ZAjOd7bO04jITb5cLLUs"[\r][\n]" 
+28 Sep 16:09:20,803 DEBUG -  << "Spacex-Api-Cache: HIT[\r][\n]" 
+28 Sep 16:09:20,803 DEBUG -  << "Spacex-Api-Cache-Online: true[\r][\n]" 
+28 Sep 16:09:20,803 DEBUG -  << "Spacex-Api-Response-Time: 1ms[\r][\n]" 
+28 Sep 16:09:20,803 DEBUG -  << "Strict-Transport-Security: max-age=15552000; includeSubDomains[\r][\n]" 
+28 Sep 16:09:20,803 DEBUG -  << "Vary: Origin[\r][\n]" 
+28 Sep 16:09:20,803 DEBUG -  << "X-Content-Type-Options: nosniff[\r][\n]" 
+28 Sep 16:09:20,803 DEBUG -  << "X-Dns-Prefetch-Control: off[\r][\n]" 
+28 Sep 16:09:20,804 DEBUG -  << "X-Download-Options: noopen[\r][\n]" 
+28 Sep 16:09:20,804 DEBUG -  << "X-Frame-Options: SAMEORIGIN[\r][\n]" 
+28 Sep 16:09:20,804 DEBUG -  << "X-Xss-Protection: 1; mode=block[\r][\n]" 
+28 Sep 16:09:20,804 DEBUG -  << "CF-Cache-Status: DYNAMIC[\r][\n]" 
+28 Sep 16:09:20,804 DEBUG -  << "cf-request-id: 0575e4b9f50000efbc4b054200000001[\r][\n]" 
+28 Sep 16:09:20,804 DEBUG -  << "Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"[\r][\n]" 
+28 Sep 16:09:20,805 DEBUG -  << "Server: cloudflare[\r][\n]" 
+28 Sep 16:09:20,805 DEBUG -  << "CF-RAY: 5d9cd7098bb7efbc-NRT[\r][\n]" 
+28 Sep 16:09:20,805 DEBUG -  << "Content-Encoding: gzip[\r][\n]" 
+28 Sep 16:09:20,805 DEBUG -  << "alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400[\r][\n]" 
+28 Sep 16:09:20,805 DEBUG -  << "[\r][\n]" 
+28 Sep 16:09:20,807 DEBUG - Receiving response: HTTP/1.1 200 OK 
+28 Sep 16:09:20,807 DEBUG - << HTTP/1.1 200 OK 
+28 Sep 16:09:20,808 DEBUG - << Date: Mon, 28 Sep 2020 10:39:20 GMT 
+28 Sep 16:09:20,808 DEBUG - << Content-Type: application/json; charset=utf-8 
+28 Sep 16:09:20,808 DEBUG - << Transfer-Encoding: chunked 
+28 Sep 16:09:20,808 DEBUG - << Connection: keep-alive 
+28 Sep 16:09:20,808 DEBUG - << Set-Cookie: __cfduid=d516346466747062f5f14aaa41c4c48bf1601289560; expires=Wed, 28-Oct-20 10:39:20 GMT; path=/; domain=.spacexdata.com; HttpOnly; SameSite=Lax; Secure 
+28 Sep 16:09:20,809 DEBUG - << Access-Control-Allow-Origin: * 
+28 Sep 16:09:20,809 DEBUG - << Access-Control-Expose-Headers: spacex-api-cache,spacex-api-response-time 
+28 Sep 16:09:20,809 DEBUG - << Cache-Control: max-age=20 
+28 Sep 16:09:20,809 DEBUG - << Etag: W/"7c4-RYScSo2ZAjOd7bO04jITb5cLLUs" 
+28 Sep 16:09:20,809 DEBUG - << Spacex-Api-Cache: HIT 
+28 Sep 16:09:20,810 DEBUG - << Spacex-Api-Cache-Online: true 
+28 Sep 16:09:20,810 DEBUG - << Spacex-Api-Response-Time: 1ms 
+28 Sep 16:09:20,810 DEBUG - << Strict-Transport-Security: max-age=15552000; includeSubDomains 
+28 Sep 16:09:20,810 DEBUG - << Vary: Origin 
+28 Sep 16:09:20,811 DEBUG - << X-Content-Type-Options: nosniff 
+28 Sep 16:09:20,811 DEBUG - << X-Dns-Prefetch-Control: off 
+28 Sep 16:09:20,811 DEBUG - << X-Download-Options: noopen 
+28 Sep 16:09:20,811 DEBUG - << X-Frame-Options: SAMEORIGIN 
+28 Sep 16:09:20,811 DEBUG - << X-Xss-Protection: 1; mode=block 
+28 Sep 16:09:20,812 DEBUG - << CF-Cache-Status: DYNAMIC 
+28 Sep 16:09:20,812 DEBUG - << cf-request-id: 0575e4b9f50000efbc4b054200000001 
+28 Sep 16:09:20,812 DEBUG - << Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct" 
+28 Sep 16:09:20,812 DEBUG - << Server: cloudflare 
+28 Sep 16:09:20,813 DEBUG - << CF-RAY: 5d9cd7098bb7efbc-NRT 
+28 Sep 16:09:20,813 DEBUG - << Content-Encoding: gzip 
+28 Sep 16:09:20,813 DEBUG - << alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400 
+28 Sep 16:09:20,828 DEBUG - Connection can be kept alive indefinitely 
+28 Sep 16:09:20,881 DEBUG - Parsing response as: application/json; charset=utf-8 
+28 Sep 16:09:20,882 DEBUG -  << "3f6[\r][\n]" 
+28 Sep 16:09:20,882 DEBUG -  << "[0x1f]" 
+28 Sep 16:09:20,882 DEBUG -  << "[0x8b]" 
+28 Sep 16:09:20,883 DEBUG -  << "[0x8]" 
+28 Sep 16:09:20,883 DEBUG -  << "[0x0]" 
+28 Sep 16:09:20,883 DEBUG -  << "[0x0][0x0][0x0][0x0][0x0][0x3]" 
+28 Sep 16:09:20,883 DEBUG - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream 
+28 Sep 16:09:21,133 DEBUG -  << "[0x94]Umo[0xa4]6[0x10][0xfe]+[0x96]?[0xb5][0x12][0x1][0x3][0xbb][0x4][0xf8]vJ_[0xa5][0xeb][0x87]6[0x91]N[0xed])B[0x83]=[0x80]o[0x8d][0x8d]l[0x13][0x92][0x8b][0xf2][0xdf]+[0xc3][0xee]f[0x93]V[0xad][0xee][0x9b]=[0xe3][0x99][0xe7][0x99]W?[0xd3][0xe][0xa4][0x95][0xba]w[0xb4]~[0xa6][0x16]g[0x87][0x82][0xd6]zV*[0xa2][0x16][0xb9]y@[0xfb][0xd4][0x80][0xf7]8N[0x9e][0xd6][0xde][0xce]x[0x96][0xbf]>t[0x83][0x9c][0x1c][0xad]?[0xd3]=B[0x81]"CV2[0xd1][0xed][0x18]cEu[0xcd]+V[0xd2][0xfb][0x97][0x88]*[0xa9][0xf]+[0xca][0x4][0x9e][0xf][0xe1][0xe0]FP[0x8a][0xd6]t[0xf0]~ru[0x92][0xc8][0x11]ztY,[0xc7][0xbe]5[0x8f]17cRAR[0x15][0x89][0xfe]8M_[0xab]_>5&[0x9e]tO#[0xaa][0xc0][0xf6][0xf8][0xdf][0x96]"K[0xf2]6i[0x87]OR*v[0xb4]|[0x9][0xec][0x85][0x90]>[0xc0]s[0x18]'[0x90][0xbd][0xbe][0xf0][0xb3],K[0xbc]=X}" 
+28 Sep 16:09:21,139 DEBUG -  << "[0xd8][0xc4]M[0xc0][0xf1]1[0xe1]f[0x1c]Q{[0x97][0xc8]"o[0x9d]O[0x9c][0x7][0x1b][0xe2]iz[0xd4]hA5B:>;'[0x8d]n@[0x8b]F[0xe0][0xa4][0xcc]S0i[0xfc]`[0x11]D[0xb2][0x92][0x9e]u[0x8][0xfc][0x1b][0xd0][0xe4]T[0xe]yb7ysBM[0xd3]f[0xf3]u[0x9];O[0x2]<[0xba][0x0]4[0xa2][0x90][0xf0]M8_[0xca][0xf1][0xb1][0xfb]7[0x1c][0x7][0x86][0x9b][0xb1]I[0xdb]fuz[0x11][0xcd][0xa9];[0xb6]&x[0x89]h[0xa7]$?[0xd8][0x8b][0xba]~[0xbe][0x8f][0xa8][0xb1][0xb2][0x97][0x1a][0xd6][0xdb]KD'[0x8b][0xce][0x1d]B[0xfa][0xb7][0xce]Y[0xb0][0xe5][0xe0][0xfc][0x5][0xd7]'3[0xfb]9n1i[0xbe][0xec][0x1e][0xff][0xb8][0xfe][0xf8][0xdb][0xcd][0xcf][0xd2][0x88][0xae][0xe2][0x16][0x1b])hM[0xdf][0xaa][0xc0]z[0xc9][0x15][0x9e]][0xca][0x83][0x9c][0xde]%[0x0]u|[0x16][0xc7][0xc6][0xf6]I[0xb8]%[0xb7][0xc7]0CW8[0xf]^[0xf2][0xa6][0x93][0x16][0x9b][0x90][0xc7]f[0xf6][0xfc][0xdc][0xde][0xff][0xd0]i[0xf9]xR[0xfa]V[0xd0][0xba][0x3][0xe5]0[0xa2][0x1a][0xfd][0xf9][0xbc]H-[0xcc]r[0x1e]%[0xc3][0xf]AI[0xf7]X[0x9]&[0xaa]=[\n]" 
+28 Sep 16:09:21,140 DEBUG -  << "([0xaa][0xea]:[0x87][0x92]U"EN#[0xea]f[0xce][0xd1][0xb9][0xd3][0x94][0x9][0xf4] [0x95][0xa3]5[0xbd][0x1b][0xa4]#[0xa3]\[0xcb]L[0x16][0xa9][0x14][0xd9][0xaa]O[0xfc][0x80][0x4][0x15]>[0xa0][0xf6][0x3]i[0xc3]T[0x11][0xd3][0x11]3[0xa1][0x5]/[0x8d][0x6]EN![0x12][0x7][0x1e][0x95][0x92][0x1e]]D[0x96]A[0xf2][0x81][0x80]E[0x82][0x8f][0x13]r[0x8f][0x82]xCZ$[0xf]hW[0x8c]4f[0x11][0xe9][0xac][0x19][0xc9][0xed][0xc7][0x9b][0xab][0x1d][0x8b][0xc8][\r]LHn@[0xc3]C[0xe8]v[0xf2]AZ[0xf2][0x93][0xb1][0x1c][0x3]@[0x80][0x8a][0xc9][0xaf][0x9e]H[0xb7]2[0xf2][0xb][0xaa][0xce][0xf][0xaf][0xd8]G[0xb6]f[0xb5]U1[0xb9][0x1b][0xf0][0x82][0xcf][0x16]Q[0x8b]D[0xa0][0x92][0xeb]Z[0x9]l[0x94]Y[0xc8][0x8f]`[0xfd]@[0x8c]m[0xa5]'[0xa0][0xc5][0xf6][0xd0]M[0xa8][0x5][0x1][0xd2][0xe1]B[0x16][0xc4][0x83]##h[0x9c][0x1f]0,[0xb1]`[0xe9][0x7][0x94][0xf6]M[0x12]@y[0xe9]g[0x81]!9[0xfb]=#[0x87]q[0xe3][0xd0][0x1a][0xe3]<Z[0xd2][0x19]K[0xfc]e[0x8e][0xa5]{[0x93][0x19][0x15][0xc0][0x8d]&[0xa0][0xc9][0x87][0xdb][0x1f]nc[0x1a]Qnq[0xd9][0x1a][0xfc][0xff]w_tRu[0xef]T[0xed][0xaa][0xc2][0xa2][0xe4]E[0x99][0xf3],+[0xbb][0xbc]h[0xc5][0xbe]d" 
+28 Sep 16:09:21,141 DEBUG -  << "U[0xbb][0xa7][0xf7][0x11][0xe5]0[0xb9]Y[0xa1][0xdb][0x80]&xR[0x6][0xc4][0x11][0xab]+`W0[0xc6][0xf6][0x15][0xcf]s[0x8e][0xb8][0x83]2[0xab]0Xm[0xd9][0x9e]@l[0xdd][0x86][0xbb]=[0xcb][0xba]=[0xab]X[0xb5]K[0xcb]r_[0x14]][0x19]8[0xc1][0xec][0xcd]qg[0x9c]:[0xae][0x3][0xa9]f{[0xc2][0xeb][0x94][0xec][0x7][0xdf][0xe8]yl[0xd1][0xd2]:eYD5[0x8c]a[0xeb][0x9e]*{[0x95][0xa6][0xe4][0xbb][0x87]4f[0xdf][0xd3][0x88][0xbe]N[\r][0xcd]X[0xc6][0xae]Xu[0xc5][0xf2][0xbb]4[0xab]wE[0xcd]X[0xcc][0x18][0xfb][0xeb][0xfc]j[0x9d][0x9f]t_Ui~[0x9d][0x16][0xec](V[0x86][0x87]Eqi[0xce][0xca][0xcd][0xfc][0x8a][0xed]j[0xc6]N[0xf6][0x93]E.C[0xa5][0xc2][0x88][0x9b][0xd9][0xd2][0x88][0xce][0x13]7[0xa3][0xd4][0xfd]y[0xfe][0xb8][0xd9]"y^Ok.[0xba][0xe2][0x9a]u[0xe9][0xdb][0x9c][0x15]a[0xf2][0xb6]Pi[0x9d]E[0xb4][0xb7]RtR[0x9f][0xa7]Pa[0xef]^[0xff][0xbd][0xed]w<j@[0xb][0xa9][0xfb][0xf7][0x9f][0xe3]I[0xfc]n[0x9a]Ob[0xff]4[0x5]2[0xa1][0x8f][0xe8]&}[0xad]T[0xce][0xf2],/s[0xe4]m[0xd1][0xb6]Y[0xbe][0xc3]k[0xe][0xf4][0xe5]>[0xa2]R[0x1c][0xf9]C[0x8a][0xd5][[0xfe]%[0xd0][0x97][0xbf][0x1][0x0][0x0][0xff][0xff][0x3][0x0][0xd0][0x95][0x11][0xe3][0xc4][0x7][0x0][0x0]" 
+28 Sep 16:09:21,143 DEBUG -  << "[\r][\n]" 
+28 Sep 16:09:21,144 DEBUG -  << "0[\r][\n]" 
+28 Sep 16:09:21,144 DEBUG -  << "[\r][\n]" 
+28 Sep 16:09:21,145 DEBUG - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@4690f583 
+28 Sep 16:09:21,145 DEBUG - Connection can be kept alive indefinitely 
+28 Sep 16:09:24,721 DEBUG - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it. 
+28 Sep 16:09:24,724 DEBUG - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found 
+28 Sep 16:09:24,727 DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found 
+28 Sep 16:09:24,728 DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found 
+28 Sep 16:09:24,729 DEBUG - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Nokia/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl" 
+28 Sep 16:09:25,189 DEBUG - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it. 
+28 Sep 16:09:25,190 DEBUG - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found 
+28 Sep 16:09:25,192 DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found 
+28 Sep 16:09:25,203 DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found 
+28 Sep 16:09:25,212 DEBUG - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Nokia/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl" 
+28 Sep 16:09:25,341 DEBUG - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it. 
+28 Sep 16:09:25,342 DEBUG - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found 
+28 Sep 16:09:25,345 DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found 
+28 Sep 16:09:25,346 DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found 
+28 Sep 16:09:25,348 DEBUG - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Nokia/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl" 
+28 Sep 16:09:25,444 DEBUG - Get connection for route {s}->https://api.spacexdata.com:443 
+28 Sep 16:09:25,445 DEBUG - Connecting to api.spacexdata.com:443 
+28 Sep 16:09:33,072 DEBUG - CookieSpec selected: ignoreCookies 
+28 Sep 16:09:33,072 DEBUG - Auth cache not set in the context 
+28 Sep 16:09:33,072 DEBUG - Target auth state: UNCHALLENGED 
+28 Sep 16:09:33,072 DEBUG - Proxy auth state: UNCHALLENGED 
+28 Sep 16:09:33,072 DEBUG - Attempt 1 to execute request 
+28 Sep 16:09:33,072 DEBUG - Sending request: GET /v4/launches/latest HTTP/1.1 
+28 Sep 16:09:33,073 DEBUG -  >> "GET /v4/launches/latest HTTP/1.1[\r][\n]" 
+28 Sep 16:09:33,073 DEBUG -  >> "Accept: */*[\r][\n]" 
+28 Sep 16:09:33,073 DEBUG -  >> "Content-Length: 0[\r][\n]" 
+28 Sep 16:09:33,073 DEBUG -  >> "Host: api.spacexdata.com[\r][\n]" 
+28 Sep 16:09:33,073 DEBUG -  >> "Connection: Keep-Alive[\r][\n]" 
+28 Sep 16:09:33,074 DEBUG -  >> "User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_60)[\r][\n]" 
+28 Sep 16:09:33,074 DEBUG -  >> "Accept-Encoding: gzip,deflate[\r][\n]" 
+28 Sep 16:09:33,074 DEBUG -  >> "[\r][\n]" 
+28 Sep 16:09:33,074 DEBUG - >> GET /v4/launches/latest HTTP/1.1 
+28 Sep 16:09:33,074 DEBUG - >> Accept: */* 
+28 Sep 16:09:33,075 DEBUG - >> Content-Length: 0 
+28 Sep 16:09:33,075 DEBUG - >> Host: api.spacexdata.com 
+28 Sep 16:09:33,075 DEBUG - >> Connection: Keep-Alive 
+28 Sep 16:09:33,075 DEBUG - >> User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_60) 
+28 Sep 16:09:33,075 DEBUG - >> Accept-Encoding: gzip,deflate 
+28 Sep 16:09:33,406 DEBUG -  << "HTTP/1.1 200 OK[\r][\n]" 
+28 Sep 16:09:33,407 DEBUG -  << "Date: Mon, 28 Sep 2020 10:39:33 GMT[\r][\n]" 
+28 Sep 16:09:33,407 DEBUG -  << "Content-Type: application/json; charset=utf-8[\r][\n]" 
+28 Sep 16:09:33,407 DEBUG -  << "Transfer-Encoding: chunked[\r][\n]" 
+28 Sep 16:09:33,407 DEBUG -  << "Connection: keep-alive[\r][\n]" 
+28 Sep 16:09:33,408 DEBUG -  << "Set-Cookie: __cfduid=d1abec3c7891b980d7280b12109bae2bc1601289573; expires=Wed, 28-Oct-20 10:39:33 GMT; path=/; domain=.spacexdata.com; HttpOnly; SameSite=Lax; Secure[\r][\n]" 
+28 Sep 16:09:33,408 DEBUG -  << "Access-Control-Allow-Origin: *[\r][\n]" 
+28 Sep 16:09:33,408 DEBUG -  << "Access-Control-Expose-Headers: spacex-api-cache,spacex-api-response-time[\r][\n]" 
+28 Sep 16:09:33,408 DEBUG -  << "Cache-Control: max-age=20[\r][\n]" 
+28 Sep 16:09:33,408 DEBUG -  << "Etag: W/"7c4-RYScSo2ZAjOd7bO04jITb5cLLUs"[\r][\n]" 
+28 Sep 16:09:33,408 DEBUG -  << "Spacex-Api-Cache: MISS[\r][\n]" 
+28 Sep 16:09:33,408 DEBUG -  << "Spacex-Api-Cache-Online: true[\r][\n]" 
+28 Sep 16:09:33,409 DEBUG -  << "Spacex-Api-Response-Time: 4ms[\r][\n]" 
+28 Sep 16:09:33,409 DEBUG -  << "Strict-Transport-Security: max-age=15552000; includeSubDomains[\r][\n]" 
+28 Sep 16:09:33,409 DEBUG -  << "Vary: Origin[\r][\n]" 
+28 Sep 16:09:33,409 DEBUG -  << "X-Content-Type-Options: nosniff[\r][\n]" 
+28 Sep 16:09:33,409 DEBUG -  << "X-Dns-Prefetch-Control: off[\r][\n]" 
+28 Sep 16:09:33,409 DEBUG -  << "X-Download-Options: noopen[\r][\n]" 
+28 Sep 16:09:33,410 DEBUG -  << "X-Frame-Options: SAMEORIGIN[\r][\n]" 
+28 Sep 16:09:33,410 DEBUG -  << "X-Xss-Protection: 1; mode=block[\r][\n]" 
+28 Sep 16:09:33,410 DEBUG -  << "CF-Cache-Status: DYNAMIC[\r][\n]" 
+28 Sep 16:09:33,410 DEBUG -  << "cf-request-id: 0575e4eb2d00000aece13cf200000001[\r][\n]" 
+28 Sep 16:09:33,410 DEBUG -  << "Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"[\r][\n]" 
+28 Sep 16:09:33,411 DEBUG -  << "Server: cloudflare[\r][\n]" 
+28 Sep 16:09:33,411 DEBUG -  << "CF-RAY: 5d9cd7584bcd0aec-NRT[\r][\n]" 
+28 Sep 16:09:33,411 DEBUG -  << "Content-Encoding: gzip[\r][\n]" 
+28 Sep 16:09:33,411 DEBUG -  << "alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400[\r][\n]" 
+28 Sep 16:09:33,411 DEBUG -  << "[\r][\n]" 
+28 Sep 16:09:33,411 DEBUG - Receiving response: HTTP/1.1 200 OK 
+28 Sep 16:09:33,412 DEBUG - << HTTP/1.1 200 OK 
+28 Sep 16:09:33,412 DEBUG - << Date: Mon, 28 Sep 2020 10:39:33 GMT 
+28 Sep 16:09:33,412 DEBUG - << Content-Type: application/json; charset=utf-8 
+28 Sep 16:09:33,412 DEBUG - << Transfer-Encoding: chunked 
+28 Sep 16:09:33,412 DEBUG - << Connection: keep-alive 
+28 Sep 16:09:33,412 DEBUG - << Set-Cookie: __cfduid=d1abec3c7891b980d7280b12109bae2bc1601289573; expires=Wed, 28-Oct-20 10:39:33 GMT; path=/; domain=.spacexdata.com; HttpOnly; SameSite=Lax; Secure 
+28 Sep 16:09:33,412 DEBUG - << Access-Control-Allow-Origin: * 
+28 Sep 16:09:33,412 DEBUG - << Access-Control-Expose-Headers: spacex-api-cache,spacex-api-response-time 
+28 Sep 16:09:33,413 DEBUG - << Cache-Control: max-age=20 
+28 Sep 16:09:33,413 DEBUG - << Etag: W/"7c4-RYScSo2ZAjOd7bO04jITb5cLLUs" 
+28 Sep 16:09:33,413 DEBUG - << Spacex-Api-Cache: MISS 
+28 Sep 16:09:33,413 DEBUG - << Spacex-Api-Cache-Online: true 
+28 Sep 16:09:33,413 DEBUG - << Spacex-Api-Response-Time: 4ms 
+28 Sep 16:09:33,413 DEBUG - << Strict-Transport-Security: max-age=15552000; includeSubDomains 
+28 Sep 16:09:33,413 DEBUG - << Vary: Origin 
+28 Sep 16:09:33,413 DEBUG - << X-Content-Type-Options: nosniff 
+28 Sep 16:09:33,414 DEBUG - << X-Dns-Prefetch-Control: off 
+28 Sep 16:09:33,414 DEBUG - << X-Download-Options: noopen 
+28 Sep 16:09:33,414 DEBUG - << X-Frame-Options: SAMEORIGIN 
+28 Sep 16:09:33,414 DEBUG - << X-Xss-Protection: 1; mode=block 
+28 Sep 16:09:33,414 DEBUG - << CF-Cache-Status: DYNAMIC 
+28 Sep 16:09:33,414 DEBUG - << cf-request-id: 0575e4eb2d00000aece13cf200000001 
+28 Sep 16:09:33,414 DEBUG - << Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct" 
+28 Sep 16:09:33,414 DEBUG - << Server: cloudflare 
+28 Sep 16:09:33,414 DEBUG - << CF-RAY: 5d9cd7584bcd0aec-NRT 
+28 Sep 16:09:33,415 DEBUG - << Content-Encoding: gzip 
+28 Sep 16:09:33,415 DEBUG - << alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400 
+28 Sep 16:09:33,415 DEBUG - Connection can be kept alive indefinitely 
+28 Sep 16:09:33,416 DEBUG - Parsing response as: application/json; charset=utf-8 
+28 Sep 16:09:33,416 DEBUG -  << "3f6[\r][\n]" 
+28 Sep 16:09:33,416 DEBUG -  << "[0x1f]" 
+28 Sep 16:09:33,416 DEBUG -  << "[0x8b]" 
+28 Sep 16:09:33,416 DEBUG -  << "[0x8]" 
+28 Sep 16:09:33,416 DEBUG -  << "[0x0]" 
+28 Sep 16:09:33,416 DEBUG -  << "[0x0][0x0][0x0][0x0][0x0][0x3]" 
+28 Sep 16:09:33,416 DEBUG - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream 
+28 Sep 16:09:33,419 DEBUG -  << "[0x94]Umo[0xa4]6[0x10][0xfe]+[0x96]?[0xb5][0x12][0x1][0x3][0xbb][0x4][0xf8]vJ_[0xa5][0xeb][0x87]6[0x91]N[0xed])B[0x83]=[0x80]o[0x8d][0x8d]l[0x13][0x92][0x8b][0xf2][0xdf]+[0xc3][0xee]f[0x93]V[0xad][0xee][0x9b]=[0xe3][0x99][0xe7][0x99]W?[0xd3][0xe][0xa4][0x95][0xba]w[0xb4]~[0xa6][0x16]g[0x87][0x82][0xd6]zV*[0xa2][0x16][0xb9]y@[0xfb][0xd4][0x80][0xf7]8N[0x9e][0xd6][0xde][0xce]x[0x96][0xbf]>t[0x83][0x9c][0x1c][0xad]?[0xd3]=B[0x81]"CV2[0xd1][0xed][0x18]cEu[0xcd]+V[0xd2][0xfb][0x97][0x88]*[0xa9][0xf]+[0xca][0x4][0x9e][0xf][0xe1][0xe0]FP[0x8a][0xd6]t[0xf0]~ru[0x92][0xc8][0x11]ztY,[0xc7][0xbe]5[0x8f]17cRAR[0x15][0x89][0xfe]8M_[0xab]_>5&[0x9e]tO#[0xaa][0xc0][0xf6][0xf8][0xdf][0x96]"K[0xf2]6i[0x87]OR*v[0xb4]|[0x9][0xec][0x85][0x90]>[0xc0]s[0x18]'[0x90][0xbd][0xbe][0xf0][0xb3],K[0xbc]=X" 
+28 Sep 16:09:33,420 DEBUG -  << "}[0xd8][0xc4]M[0xc0][0xf1]1[0xe1]f[0x1c]Q{[0x97][0xc8]"o[0x9d]O[0x9c][0x7][0x1b][0xe2]iz[0xd4]hA5B:>;'[0x8d]n@[0x8b]F[0xe0][0xa4][0xcc]S0i[0xfc]`[0x11]D[0xb2][0x92][0x9e]u[0x8][0xfc][0x1b][0xd0][0xe4]T[0xe]yb7ysBM[0xd3]f[0xf3]u[0x9];O[0x2]<[0xba][0x0]4[0xa2][0x90][0xf0]M8_[0xca][0xf1][0xb1][0xfb]7[0x1c][0x7][0x86][0x9b][0xb1]I[0xdb]fuz[0x11][0xcd][0xa9];[0xb6]&x[0x89]h[0xa7]$?[0xd8][0x8b][0xba]~[0xbe][0x8f][0xa8][0xb1][0xb2][0x97][0x1a][0xd6][0xdb]KD'[0x8b][0xce][0x1d]B[0xfa][0xb7][0xce]Y[0xb0][0xe5][0xe0][0xfc][0x5][0xd7]'3[0xfb]9n1i[0xbe][0xec][0x1e][0xff][0xb8][0xfe][0xf8][0xdb][0xcd][0xcf][0xd2][0x88][0xae][0xe2][0x16][0x1b])hM[0xdf][0xaa][0xc0]z[0xc9][0x15][0x9e]][0xca][0x83][0x9c][0xde]%[0x0]u|[0x16][0xc7][0xc6][0xf6]I[0xb8]%[0xb7][0xc7]0CW8[0xf]^[0xf2][0xa6][0x93][0x16][0x9b][0x90][0xc7]f[0xf6][0xfc][0xdc][0xde][0xff][0xd0]i[0xf9]xR[0xfa]V[0xd0][0xba][0x3][0xe5]0[0xa2][0x1a][0xfd][0xf9][0xbc]H-[0xcc]r[0x1e]%[0xc3][0xf]AI[0xf7]X[0x9]&[0xaa]=[\n]" 
+28 Sep 16:09:33,420 DEBUG -  << "([0xaa][0xea]:[0x87][0x92]U"EN#[0xea]f[0xce][0xd1][0xb9][0xd3][0x94][0x9][0xf4] [0x95][0xa3]5[0xbd][0x1b][0xa4]#[0xa3]\[0xcb]L[0x16][0xa9][0x14][0xd9][0xaa]O[0xfc][0x80][0x4][0x15]>[0xa0][0xf6][0x3]i[0xc3]T[0x11][0xd3][0x11]3[0xa1][0x5]/[0x8d][0x6]EN![0x12][0x7][0x1e][0x95][0x92][0x1e]]D[0x96]A[0xf2][0x81][0x80]E[0x82][0x8f][0x13]r[0x8f][0x82]xCZ$[0xf]hW[0x8c]4f[0x11][0xe9][0xac][0x19][0xc9][0xed][0xc7][0x9b][0xab][0x1d][0x8b][0xc8][\r]LHn@[0xc3]C[0xe8]v[0xf2]AZ[0xf2][0x93][0xb1][0x1c][0x3]@[0x80][0x8a][0xc9][0xaf][0x9e]H[0xb7]2[0xf2][0xb][0xaa][0xce][0xf][0xaf][0xd8]G[0xb6]f[0xb5]U1[0xb9][0x1b][0xf0][0x82][0xcf][0x16]Q[0x8b]D[0xa0][0x92][0xeb]Z[0x9]l[0x94]Y[0xc8][0x8f]`[0xfd]@[0x8c]m[0xa5]'[0xa0][0xc5][0xf6][0xd0]M[0xa8][0x5][0x1][0xd2][0xe1]B[0x16][0xc4][0x83]##h[0x9c][0x1f]0,[0xb1]`[0xe9][0x7][0x94][0xf6]M[0x12]@y[0xe9]g[0x81]!9[0xfb]=#[0x87]q[0xe3][0xd0][0x1a][0xe3]<Z[0xd2][0x19]K[0xfc]e[0x8e][0xa5]{[0x93][0x19][0x15][0xc0][0x8d]&[0xa0][0xc9][0x87][0xdb][0x1f]nc[0x1a]Qnq[0xd9][0x1a][0xfc][0xff]w_tRu[0xef]T[0xed][0xaa][0xc2][0xa2][0xe4]E[0x99][0xf3],+[0xbb][0xbc]h[0xc5][0xbe]" 
+28 Sep 16:09:33,421 DEBUG -  << "dU[0xbb][0xa7][0xf7][0x11][0xe5]0[0xb9]Y[0xa1][0xdb][0x80]&xR[0x6][0xc4][0x11][0xab]+`W0[0xc6][0xf6][0x15][0xcf]s[0x8e][0xb8][0x83]2[0xab]0Xm[0xd9][0x9e]@l[0xdd][0x86][0xbb]=[0xcb][0xba]=[0xab]X[0xb5]K[0xcb]r_[0x14]][0x19]8[0xc1][0xec][0xcd]qg[0x9c]:[0xae][0x3][0xa9]f{[0xc2][0xeb][0x94][0xec][0x7][0xdf][0xe8]yl[0xd1][0xd2]:eYD5[0x8c]a[0xeb][0x9e]*{[0x95][0xa6][0xe4][0xbb][0x87]4f[0xdf][0xd3][0x88][0xbe]N[\r][0xcd]X[0xc6][0xae]Xu[0xc5][0xf2][0xbb]4[0xab]wE[0xcd]X[0xcc][0x18][0xfb][0xeb][0xfc]j[0x9d][0x9f]t_Ui~[0x9d][0x16][0xec](V[0x86][0x87]Eqi[0xce][0xca][0xcd][0xfc][0x8a][0xed]j[0xc6]N[0xf6][0x93]E.C[0xa5][0xc2][0x88][0x9b][0xd9][0xd2][0x88][0xce][0x13]7[0xa3][0xd4][0xfd]y[0xfe][0xb8][0xd9]"y^Ok.[0xba][0xe2][0x9a]u[0xe9][0xdb][0x9c][0x15]a[0xf2][0xb6]Pi[0x9d]E[0xb4][0xb7]RtR[0x9f][0xa7]Pa[0xef]^[0xff][0xbd][0xed]w<j@[0xb][0xa9][0xfb][0xf7][0x9f][0xe3]I[0xfc]n[0x9a]Ob[0xff]4[0x5]2[0xa1][0x8f][0xe8]&}[0xad]T[0xce][0xf2],/s[0xe4]m[0xd1][0xb6]Y[0xbe][0xc3]k[0xe][0xf4][0xe5]>[0xa2]R[0x1c][0xf9]C[0x8a][0xd5][[0xfe]%[0xd0][0x97][0xbf][0x1][0x0][0x0][0xff][0xff][0x3][0x0][0xd0][0x95][0x11][0xe3][0xc4][0x7][0x0][0x0]" 
+28 Sep 16:09:33,421 DEBUG -  << "[\r][\n]" 
+28 Sep 16:09:33,422 DEBUG -  << "0[\r][\n]" 
+28 Sep 16:09:33,422 DEBUG -  << "[\r][\n]" 
+28 Sep 16:09:33,422 DEBUG - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@69d6a7cd 
+28 Sep 16:09:33,422 DEBUG - Connection can be kept alive indefinitely 
+28 Sep 16:09:36,426 DEBUG - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it. 
+28 Sep 16:09:36,426 DEBUG - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found 
+28 Sep 16:09:36,427 DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found 
+28 Sep 16:09:36,428 DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found 
+28 Sep 16:09:36,429 DEBUG - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Nokia/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl" 
+28 Sep 16:09:36,544 DEBUG - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it. 
+28 Sep 16:09:36,545 DEBUG - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found 
+28 Sep 16:09:36,546 DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found 
+28 Sep 16:09:36,546 DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found 
+28 Sep 16:09:36,547 DEBUG - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Nokia/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl" 
+28 Sep 16:11:26,018 DEBUG - read method invoked 
+28 Sep 16:11:26,021 INFO - fileName = C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties 
+28 Sep 16:11:26,022 INFO - key = automation_report_folder 
+28 Sep 16:11:26,022 DEBUG - Inside try 
+28 Sep 16:11:26,023 DEBUG - File : C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties Was Opened For Reading 
+28 Sep 16:11:26,023 DEBUG - File.separator = \ 
+28 Sep 16:11:26,023 DEBUG - File.separatorChar = \ 
+28 Sep 16:11:26,024 DEBUG - Properties Instance Was Created 
+28 Sep 16:11:26,024 DEBUG - properties from file : C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties Were Read 
+28 Sep 16:11:26,024 DEBUG - Inside finally 
+28 Sep 16:11:26,025 DEBUG - BufferedReader(bufferedReader) Instance Closed 
+28 Sep 16:11:26,025 DEBUG - keyValue being returned = automation-reports 
+28 Sep 16:11:26,025 DEBUG - Exiting read method 
+28 Sep 16:11:26,025 DEBUG - read method invoked 
+28 Sep 16:11:26,026 INFO - fileName = C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties 
+28 Sep 16:11:26,026 INFO - key = test_data_file_location 
+28 Sep 16:11:26,026 DEBUG - Inside try 
+28 Sep 16:11:26,026 DEBUG - File : C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties Was Opened For Reading 
+28 Sep 16:11:26,027 DEBUG - File.separator = \ 
+28 Sep 16:11:26,027 DEBUG - File.separatorChar = \ 
+28 Sep 16:11:26,027 DEBUG - Properties Instance Was Created 
+28 Sep 16:11:26,027 DEBUG - properties from file : C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties Were Read 
+28 Sep 16:11:26,028 DEBUG - Inside finally 
+28 Sep 16:11:26,028 DEBUG - BufferedReader(bufferedReader) Instance Closed 
+28 Sep 16:11:26,028 DEBUG - keyValue being returned = /testdata/TestData.xlsx 
+28 Sep 16:11:26,028 DEBUG - Exiting read method 
+28 Sep 16:11:26,029 DEBUG - read method invoked 
+28 Sep 16:11:26,029 INFO - fileName = C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties 
+28 Sep 16:11:26,029 INFO - key = api_key 
+28 Sep 16:11:26,029 DEBUG - Inside try 
+28 Sep 16:11:26,030 DEBUG - File : C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties Was Opened For Reading 
+28 Sep 16:11:26,030 DEBUG - File.separator = \ 
+28 Sep 16:11:26,030 DEBUG - File.separatorChar = \ 
+28 Sep 16:11:26,031 DEBUG - Properties Instance Was Created 
+28 Sep 16:11:26,031 DEBUG - properties from file : C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties Were Read 
+28 Sep 16:11:26,031 DEBUG - Inside finally 
+28 Sep 16:11:26,032 DEBUG - BufferedReader(bufferedReader) Instance Closed 
+28 Sep 16:11:26,032 DEBUG - keyValue being returned = xyc52sk8fnkc954nvcpspb52 
+28 Sep 16:11:26,032 DEBUG - Exiting read method 
+28 Sep 16:11:26,032 DEBUG - read method invoked 
+28 Sep 16:11:26,032 INFO - fileName = C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties 
+28 Sep 16:11:26,033 INFO - key = base-uri 
+28 Sep 16:11:26,033 DEBUG - Inside try 
+28 Sep 16:11:26,033 DEBUG - File : C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties Was Opened For Reading 
+28 Sep 16:11:26,033 DEBUG - File.separator = \ 
+28 Sep 16:11:26,034 DEBUG - File.separatorChar = \ 
+28 Sep 16:11:26,034 DEBUG - Properties Instance Was Created 
+28 Sep 16:11:26,034 DEBUG - properties from file : C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties Were Read 
+28 Sep 16:11:26,034 DEBUG - Inside finally 
+28 Sep 16:11:26,035 DEBUG - BufferedReader(bufferedReader) Instance Closed 
+28 Sep 16:11:26,035 DEBUG - keyValue being returned = http://localhost 
+28 Sep 16:11:26,035 DEBUG - Exiting read method 
+28 Sep 16:11:26,035 DEBUG - read method invoked 
+28 Sep 16:11:26,036 INFO - fileName = C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties 
+28 Sep 16:11:26,036 INFO - key = jira_port 
+28 Sep 16:11:26,036 DEBUG - Inside try 
+28 Sep 16:11:26,036 DEBUG - File : C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties Was Opened For Reading 
+28 Sep 16:11:26,036 DEBUG - File.separator = \ 
+28 Sep 16:11:26,037 DEBUG - File.separatorChar = \ 
+28 Sep 16:11:26,037 DEBUG - Properties Instance Was Created 
+28 Sep 16:11:26,037 DEBUG - properties from file : C:\Users\Nokia\Desktop\test_API_suit\src\main\resources\resources.properties Were Read 
+28 Sep 16:11:26,038 DEBUG - Inside finally 
+28 Sep 16:11:26,038 DEBUG - BufferedReader(bufferedReader) Instance Closed 
+28 Sep 16:11:26,038 DEBUG - keyValue being returned = 8080 
+28 Sep 16:11:26,038 DEBUG - Exiting read method 
+28 Sep 16:11:29,147 DEBUG - Get connection for route {s}->https://api.spacexdata.com:443 
+28 Sep 16:11:29,169 DEBUG - Connecting to api.spacexdata.com:443 
+28 Sep 16:11:30,134 DEBUG - CookieSpec selected: ignoreCookies 
+28 Sep 16:11:30,137 DEBUG - Auth cache not set in the context 
+28 Sep 16:11:30,137 DEBUG - Target auth state: UNCHALLENGED 
+28 Sep 16:11:30,138 DEBUG - Proxy auth state: UNCHALLENGED 
+28 Sep 16:11:30,138 DEBUG - Attempt 1 to execute request 
+28 Sep 16:11:30,139 DEBUG - Sending request: GET /v4/launches/latest HTTP/1.1 
+28 Sep 16:11:30,139 DEBUG -  >> "GET /v4/launches/latest HTTP/1.1[\r][\n]" 
+28 Sep 16:11:30,141 DEBUG -  >> "Accept: */*[\r][\n]" 
+28 Sep 16:11:30,141 DEBUG -  >> "Content-Length: 0[\r][\n]" 
+28 Sep 16:11:30,141 DEBUG -  >> "Host: api.spacexdata.com[\r][\n]" 
+28 Sep 16:11:30,142 DEBUG -  >> "Connection: Keep-Alive[\r][\n]" 
+28 Sep 16:11:30,142 DEBUG -  >> "User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_60)[\r][\n]" 
+28 Sep 16:11:30,142 DEBUG -  >> "Accept-Encoding: gzip,deflate[\r][\n]" 
+28 Sep 16:11:30,142 DEBUG -  >> "[\r][\n]" 
+28 Sep 16:11:30,143 DEBUG - >> GET /v4/launches/latest HTTP/1.1 
+28 Sep 16:11:30,143 DEBUG - >> Accept: */* 
+28 Sep 16:11:30,143 DEBUG - >> Content-Length: 0 
+28 Sep 16:11:30,143 DEBUG - >> Host: api.spacexdata.com 
+28 Sep 16:11:30,143 DEBUG - >> Connection: Keep-Alive 
+28 Sep 16:11:30,144 DEBUG - >> User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_60) 
+28 Sep 16:11:30,144 DEBUG - >> Accept-Encoding: gzip,deflate 
+28 Sep 16:11:30,471 DEBUG -  << "HTTP/1.1 200 OK[\r][\n]" 
+28 Sep 16:11:30,474 DEBUG -  << "Date: Mon, 28 Sep 2020 10:41:30 GMT[\r][\n]" 
+28 Sep 16:11:30,474 DEBUG -  << "Content-Type: application/json; charset=utf-8[\r][\n]" 
+28 Sep 16:11:30,474 DEBUG -  << "Transfer-Encoding: chunked[\r][\n]" 
+28 Sep 16:11:30,474 DEBUG -  << "Connection: keep-alive[\r][\n]" 
+28 Sep 16:11:30,475 DEBUG -  << "Set-Cookie: __cfduid=d0606d9551ba459e7a8b8a5ddeeb17a841601289690; expires=Wed, 28-Oct-20 10:41:30 GMT; path=/; domain=.spacexdata.com; HttpOnly; SameSite=Lax; Secure[\r][\n]" 
+28 Sep 16:11:30,475 DEBUG -  << "Access-Control-Allow-Origin: *[\r][\n]" 
+28 Sep 16:11:30,475 DEBUG -  << "Access-Control-Expose-Headers: spacex-api-cache,spacex-api-response-time[\r][\n]" 
+28 Sep 16:11:30,475 DEBUG -  << "Cache-Control: max-age=20[\r][\n]" 
+28 Sep 16:11:30,476 DEBUG -  << "Etag: W/"7c4-RYScSo2ZAjOd7bO04jITb5cLLUs"[\r][\n]" 
+28 Sep 16:11:30,476 DEBUG -  << "Spacex-Api-Cache: MISS[\r][\n]" 
+28 Sep 16:11:30,476 DEBUG -  << "Spacex-Api-Cache-Online: true[\r][\n]" 
+28 Sep 16:11:30,476 DEBUG -  << "Spacex-Api-Response-Time: 8ms[\r][\n]" 
+28 Sep 16:11:30,477 DEBUG -  << "Strict-Transport-Security: max-age=15552000; includeSubDomains[\r][\n]" 
+28 Sep 16:11:30,477 DEBUG -  << "Vary: Origin[\r][\n]" 
+28 Sep 16:11:30,477 DEBUG -  << "X-Content-Type-Options: nosniff[\r][\n]" 
+28 Sep 16:11:30,477 DEBUG -  << "X-Dns-Prefetch-Control: off[\r][\n]" 
+28 Sep 16:11:30,477 DEBUG -  << "X-Download-Options: noopen[\r][\n]" 
+28 Sep 16:11:30,478 DEBUG -  << "X-Frame-Options: SAMEORIGIN[\r][\n]" 
+28 Sep 16:11:30,478 DEBUG -  << "X-Xss-Protection: 1; mode=block[\r][\n]" 
+28 Sep 16:11:30,478 DEBUG -  << "CF-Cache-Status: DYNAMIC[\r][\n]" 
+28 Sep 16:11:30,478 DEBUG -  << "cf-request-id: 0575e6b47f00009557d8342200000001[\r][\n]" 
+28 Sep 16:11:30,478 DEBUG -  << "Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"[\r][\n]" 
+28 Sep 16:11:30,479 DEBUG -  << "Server: cloudflare[\r][\n]" 
+28 Sep 16:11:30,479 DEBUG -  << "CF-RAY: 5d9cda33fcd89557-NRT[\r][\n]" 
+28 Sep 16:11:30,479 DEBUG -  << "Content-Encoding: gzip[\r][\n]" 
+28 Sep 16:11:30,479 DEBUG -  << "alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400[\r][\n]" 
+28 Sep 16:11:30,479 DEBUG -  << "[\r][\n]" 
+28 Sep 16:11:30,481 DEBUG - Receiving response: HTTP/1.1 200 OK 
+28 Sep 16:11:30,481 DEBUG - << HTTP/1.1 200 OK 
+28 Sep 16:11:30,481 DEBUG - << Date: Mon, 28 Sep 2020 10:41:30 GMT 
+28 Sep 16:11:30,481 DEBUG - << Content-Type: application/json; charset=utf-8 
+28 Sep 16:11:30,482 DEBUG - << Transfer-Encoding: chunked 
+28 Sep 16:11:30,482 DEBUG - << Connection: keep-alive 
+28 Sep 16:11:30,482 DEBUG - << Set-Cookie: __cfduid=d0606d9551ba459e7a8b8a5ddeeb17a841601289690; expires=Wed, 28-Oct-20 10:41:30 GMT; path=/; domain=.spacexdata.com; HttpOnly; SameSite=Lax; Secure 
+28 Sep 16:11:30,482 DEBUG - << Access-Control-Allow-Origin: * 
+28 Sep 16:11:30,483 DEBUG - << Access-Control-Expose-Headers: spacex-api-cache,spacex-api-response-time 
+28 Sep 16:11:30,483 DEBUG - << Cache-Control: max-age=20 
+28 Sep 16:11:30,483 DEBUG - << Etag: W/"7c4-RYScSo2ZAjOd7bO04jITb5cLLUs" 
+28 Sep 16:11:30,483 DEBUG - << Spacex-Api-Cache: MISS 
+28 Sep 16:11:30,484 DEBUG - << Spacex-Api-Cache-Online: true 
+28 Sep 16:11:30,484 DEBUG - << Spacex-Api-Response-Time: 8ms 
+28 Sep 16:11:30,484 DEBUG - << Strict-Transport-Security: max-age=15552000; includeSubDomains 
+28 Sep 16:11:30,484 DEBUG - << Vary: Origin 
+28 Sep 16:11:30,484 DEBUG - << X-Content-Type-Options: nosniff 
+28 Sep 16:11:30,484 DEBUG - << X-Dns-Prefetch-Control: off 
+28 Sep 16:11:30,485 DEBUG - << X-Download-Options: noopen 
+28 Sep 16:11:30,485 DEBUG - << X-Frame-Options: SAMEORIGIN 
+28 Sep 16:11:30,485 DEBUG - << X-Xss-Protection: 1; mode=block 
+28 Sep 16:11:30,485 DEBUG - << CF-Cache-Status: DYNAMIC 
+28 Sep 16:11:30,485 DEBUG - << cf-request-id: 0575e6b47f00009557d8342200000001 
+28 Sep 16:11:30,486 DEBUG - << Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct" 
+28 Sep 16:11:30,486 DEBUG - << Server: cloudflare 
+28 Sep 16:11:30,486 DEBUG - << CF-RAY: 5d9cda33fcd89557-NRT 
+28 Sep 16:11:30,486 DEBUG - << Content-Encoding: gzip 
+28 Sep 16:11:30,486 DEBUG - << alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400 
+28 Sep 16:11:30,507 DEBUG - Connection can be kept alive indefinitely 
+28 Sep 16:11:30,550 DEBUG - Parsing response as: application/json; charset=utf-8 
+28 Sep 16:11:30,552 DEBUG -  << "3f6[\r][\n]" 
+28 Sep 16:11:30,552 DEBUG -  << "[0x1f]" 
+28 Sep 16:11:30,553 DEBUG -  << "[0x8b]" 
+28 Sep 16:11:30,553 DEBUG -  << "[0x8]" 
+28 Sep 16:11:30,553 DEBUG -  << "[0x0]" 
+28 Sep 16:11:30,553 DEBUG -  << "[0x0][0x0][0x0][0x0][0x0][0x3]" 
+28 Sep 16:11:30,554 DEBUG - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream 
+28 Sep 16:11:30,770 DEBUG -  << "[0x94]Umo[0xa4]6[0x10][0xfe]+[0x96]?[0xb5][0x12][0x1][0x3][0xbb][0x4][0xf8]vJ_[0xa5][0xeb][0x87]6[0x91]N[0xed])B[0x83]=[0x80]o[0x8d][0x8d]l[0x13][0x92][0x8b][0xf2][0xdf]+[0xc3][0xee]f[0x93]V[0xad][0xee][0x9b]=[0xe3][0x99][0xe7][0x99]W?[0xd3][0xe][0xa4][0x95][0xba]w[0xb4]~[0xa6][0x16]g[0x87][0x82][0xd6]zV*[0xa2][0x16][0xb9]y@[0xfb][0xd4][0x80][0xf7]8N[0x9e][0xd6][0xde][0xce]x[0x96][0xbf]>t[0x83][0x9c][0x1c][0xad]?[0xd3]=B[0x81]"CV2[0xd1][0xed][0x18]cEu[0xcd]+V[0xd2][0xfb][0x97][0x88]*[0xa9][0xf]+[0xca][0x4][0x9e][0xf][0xe1][0xe0]FP[0x8a][0xd6]t[0xf0]~ru[0x92][0xc8][0x11]ztY,[0xc7][0xbe]5[0x8f]17cRAR[0x15][0x89][0xfe]8M_[0xab]_>5&[0x9e]tO#[0xaa][0xc0][0xf6][0xf8][0xdf][0x96]"K[0xf2]6i[0x87]OR*v[0xb4]|[0x9][0xec][0x85][0x90]>[0xc0]s[0x18]'[0x90][0xbd][0xbe][0xf0][0xb3],K[0xbc]=X" 
+28 Sep 16:11:30,773 DEBUG -  << "}[0xd8][0xc4]M[0xc0][0xf1]1[0xe1]f[0x1c]Q{[0x97][0xc8]"o[0x9d]O[0x9c][0x7][0x1b][0xe2]iz[0xd4]hA5B:>;'[0x8d]n@[0x8b]F[0xe0][0xa4][0xcc]S0i[0xfc]`[0x11]D[0xb2][0x92][0x9e]u[0x8][0xfc][0x1b][0xd0][0xe4]T[0xe]yb7ysBM[0xd3]f[0xf3]u[0x9];O[0x2]<[0xba][0x0]4[0xa2][0x90][0xf0]M8_[0xca][0xf1][0xb1][0xfb]7[0x1c][0x7][0x86][0x9b][0xb1]I[0xdb]fuz[0x11][0xcd][0xa9];[0xb6]&x[0x89]h[0xa7]$?[0xd8][0x8b][0xba]~[0xbe][0x8f][0xa8][0xb1][0xb2][0x97][0x1a][0xd6][0xdb]KD'[0x8b][0xce][0x1d]B[0xfa][0xb7][0xce]Y[0xb0][0xe5][0xe0][0xfc][0x5][0xd7]'3[0xfb]9n1i[0xbe][0xec][0x1e][0xff][0xb8][0xfe][0xf8][0xdb][0xcd][0xcf][0xd2][0x88][0xae][0xe2][0x16][0x1b])hM[0xdf][0xaa][0xc0]z[0xc9][0x15][0x9e]][0xca][0x83][0x9c][0xde]%[0x0]u|[0x16][0xc7][0xc6][0xf6]I[0xb8]%[0xb7][0xc7]0CW8[0xf]^[0xf2][0xa6][0x93][0x16][0x9b][0x90][0xc7]f[0xf6][0xfc][0xdc][0xde][0xff][0xd0]i[0xf9]xR[0xfa]V[0xd0][0xba][0x3][0xe5]0[0xa2][0x1a][0xfd][0xf9][0xbc]H-[0xcc]r[0x1e]%[0xc3][0xf]AI[0xf7]X[0x9]&[0xaa]=[\n]" 
+28 Sep 16:11:30,774 DEBUG -  << "([0xaa][0xea]:[0x87][0x92]U"EN#[0xea]f[0xce][0xd1][0xb9][0xd3][0x94][0x9][0xf4] [0x95][0xa3]5[0xbd][0x1b][0xa4]#[0xa3]\[0xcb]L[0x16][0xa9][0x14][0xd9][0xaa]O[0xfc][0x80][0x4][0x15]>[0xa0][0xf6][0x3]i[0xc3]T[0x11][0xd3][0x11]3[0xa1][0x5]/[0x8d][0x6]EN![0x12][0x7][0x1e][0x95][0x92][0x1e]]D[0x96]A[0xf2][0x81][0x80]E[0x82][0x8f][0x13]r[0x8f][0x82]xCZ$[0xf]hW[0x8c]4f[0x11][0xe9][0xac][0x19][0xc9][0xed][0xc7][0x9b][0xab][0x1d][0x8b][0xc8][\r]LHn@[0xc3]C[0xe8]v[0xf2]AZ[0xf2][0x93][0xb1][0x1c][0x3]@[0x80][0x8a][0xc9][0xaf][0x9e]H[0xb7]2[0xf2][0xb][0xaa][0xce][0xf][0xaf][0xd8]G[0xb6]f[0xb5]U1[0xb9][0x1b][0xf0][0x82][0xcf][0x16]Q[0x8b]D[0xa0][0x92][0xeb]Z[0x9]l[0x94]Y[0xc8][0x8f]`[0xfd]@[0x8c]m[0xa5]'[0xa0][0xc5][0xf6][0xd0]M[0xa8][0x5][0x1][0xd2][0xe1]B[0x16][0xc4][0x83]##h[0x9c][0x1f]0,[0xb1]`[0xe9][0x7][0x94][0xf6]M[0x12]@y[0xe9]g[0x81]!9[0xfb]=#[0x87]q[0xe3][0xd0][0x1a][0xe3]<Z[0xd2][0x19]K[0xfc]e[0x8e][0xa5]{[0x93][0x19][0x15][0xc0][0x8d]&[0xa0][0xc9][0x87][0xdb][0x1f]nc[0x1a]Qnq[0xd9][0x1a][0xfc][0xff]w_tRu[0xef]T[0xed][0xaa][0xc2][0xa2][0xe4]E[0x99][0xf3],+[0xbb][0xbc]h[0xc5][0xbe]" 
+28 Sep 16:11:30,775 DEBUG -  << "dU[0xbb][0xa7][0xf7][0x11][0xe5]0[0xb9]Y[0xa1][0xdb][0x80]&xR[0x6][0xc4][0x11][0xab]+`W0[0xc6][0xf6][0x15][0xcf]s[0x8e][0xb8][0x83]2[0xab]0Xm[0xd9][0x9e]@l[0xdd][0x86][0xbb]=[0xcb][0xba]=[0xab]X[0xb5]K[0xcb]r_[0x14]][0x19]8[0xc1][0xec][0xcd]qg[0x9c]:[0xae][0x3][0xa9]f{[0xc2][0xeb][0x94][0xec][0x7][0xdf][0xe8]yl[0xd1][0xd2]:eYD5[0x8c]a[0xeb][0x9e]*{[0x95][0xa6][0xe4][0xbb][0x87]4f[0xdf][0xd3][0x88][0xbe]N[\r][0xcd]X[0xc6][0xae]Xu[0xc5][0xf2][0xbb]4[0xab]wE[0xcd]X[0xcc][0x18][0xfb][0xeb][0xfc]j[0x9d][0x9f]t_Ui~[0x9d][0x16][0xec](V[0x86][0x87]Eqi[0xce][0xca][0xcd][0xfc][0x8a][0xed]j[0xc6]N[0xf6][0x93]E.C[0xa5][0xc2][0x88][0x9b][0xd9][0xd2][0x88][0xce][0x13]7[0xa3][0xd4][0xfd]y[0xfe][0xb8][0xd9]"y^Ok.[0xba][0xe2][0x9a]u[0xe9][0xdb][0x9c][0x15]a[0xf2][0xb6]Pi[0x9d]E[0xb4][0xb7]RtR[0x9f][0xa7]Pa[0xef]^[0xff][0xbd][0xed]w<j@[0xb][0xa9][0xfb][0xf7][0x9f][0xe3]I[0xfc]n[0x9a]Ob[0xff]4[0x5]2[0xa1][0x8f][0xe8]&}[0xad]T[0xce][0xf2],/s[0xe4]m[0xd1][0xb6]Y[0xbe][0xc3]k[0xe][0xf4][0xe5]>[0xa2]R[0x1c][0xf9]C[0x8a][0xd5][[0xfe]%[0xd0][0x97][0xbf][0x1][0x0][0x0][0xff][0xff][0x3][0x0][0xd0][0x95][0x11][0xe3][0xc4][0x7][0x0][0x0]" 
+28 Sep 16:11:30,776 DEBUG -  << "[\r][\n]" 
+28 Sep 16:11:30,776 DEBUG -  << "0[\r][\n]" 
+28 Sep 16:11:30,777 DEBUG -  << "[\r][\n]" 
+28 Sep 16:11:30,777 DEBUG - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@72ed9aad 
+28 Sep 16:11:30,777 DEBUG - Connection can be kept alive indefinitely 
+28 Sep 16:11:33,832 DEBUG - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it. 
+28 Sep 16:11:33,834 DEBUG - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found 
+28 Sep 16:11:33,837 DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found 
+28 Sep 16:11:33,839 DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found 
+28 Sep 16:11:33,839 DEBUG - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Nokia/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl" 
+28 Sep 16:11:34,340 DEBUG - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it. 
+28 Sep 16:11:34,342 DEBUG - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found 
+28 Sep 16:11:34,343 DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found 
+28 Sep 16:11:34,348 DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found 
+28 Sep 16:11:34,359 DEBUG - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Nokia/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl" 
+28 Sep 16:11:34,502 DEBUG - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it. 
+28 Sep 16:11:34,503 DEBUG - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found 
+28 Sep 16:11:34,504 DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found 
+28 Sep 16:11:34,506 DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found 
+28 Sep 16:11:34,506 DEBUG - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Nokia/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl" 
+28 Sep 16:11:34,611 DEBUG - Get connection for route {s}->https://api.spacexdata.com:443 
+28 Sep 16:11:34,611 DEBUG - Connecting to api.spacexdata.com:443 
+28 Sep 16:11:35,224 DEBUG - CookieSpec selected: ignoreCookies 
+28 Sep 16:11:35,224 DEBUG - Auth cache not set in the context 
+28 Sep 16:11:35,224 DEBUG - Target auth state: UNCHALLENGED 
+28 Sep 16:11:35,224 DEBUG - Proxy auth state: UNCHALLENGED 
+28 Sep 16:11:35,224 DEBUG - Attempt 1 to execute request 
+28 Sep 16:11:35,224 DEBUG - Sending request: GET /v4/launches/latest HTTP/1.1 
+28 Sep 16:11:35,225 DEBUG -  >> "GET /v4/launches/latest HTTP/1.1[\r][\n]" 
+28 Sep 16:11:35,225 DEBUG -  >> "Accept: */*[\r][\n]" 
+28 Sep 16:11:35,225 DEBUG -  >> "Content-Length: 0[\r][\n]" 
+28 Sep 16:11:35,225 DEBUG -  >> "Host: api.spacexdata.com[\r][\n]" 
+28 Sep 16:11:35,225 DEBUG -  >> "Connection: Keep-Alive[\r][\n]" 
+28 Sep 16:11:35,225 DEBUG -  >> "User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_60)[\r][\n]" 
+28 Sep 16:11:35,225 DEBUG -  >> "Accept-Encoding: gzip,deflate[\r][\n]" 
+28 Sep 16:11:35,226 DEBUG -  >> "[\r][\n]" 
+28 Sep 16:11:35,226 DEBUG - >> GET /v4/launches/latest HTTP/1.1 
+28 Sep 16:11:35,226 DEBUG - >> Accept: */* 
+28 Sep 16:11:35,226 DEBUG - >> Content-Length: 0 
+28 Sep 16:11:35,226 DEBUG - >> Host: api.spacexdata.com 
+28 Sep 16:11:35,226 DEBUG - >> Connection: Keep-Alive 
+28 Sep 16:11:35,226 DEBUG - >> User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_60) 
+28 Sep 16:11:35,227 DEBUG - >> Accept-Encoding: gzip,deflate 
+28 Sep 16:11:35,531 DEBUG -  << "HTTP/1.1 200 OK[\r][\n]" 
+28 Sep 16:11:35,532 DEBUG -  << "Date: Mon, 28 Sep 2020 10:41:35 GMT[\r][\n]" 
+28 Sep 16:11:35,532 DEBUG -  << "Content-Type: application/json; charset=utf-8[\r][\n]" 
+28 Sep 16:11:35,532 DEBUG -  << "Transfer-Encoding: chunked[\r][\n]" 
+28 Sep 16:11:35,532 DEBUG -  << "Connection: keep-alive[\r][\n]" 
+28 Sep 16:11:35,533 DEBUG -  << "Set-Cookie: __cfduid=d196899a65431272c719f833fac67b8181601289695; expires=Wed, 28-Oct-20 10:41:35 GMT; path=/; domain=.spacexdata.com; HttpOnly; SameSite=Lax; Secure[\r][\n]" 
+28 Sep 16:11:35,533 DEBUG -  << "Access-Control-Allow-Origin: *[\r][\n]" 
+28 Sep 16:11:35,533 DEBUG -  << "Access-Control-Expose-Headers: spacex-api-cache,spacex-api-response-time[\r][\n]" 
+28 Sep 16:11:35,533 DEBUG -  << "Cache-Control: max-age=20[\r][\n]" 
+28 Sep 16:11:35,534 DEBUG -  << "Etag: W/"7c4-RYScSo2ZAjOd7bO04jITb5cLLUs"[\r][\n]" 
+28 Sep 16:11:35,534 DEBUG -  << "Spacex-Api-Cache: HIT[\r][\n]" 
+28 Sep 16:11:35,534 DEBUG -  << "Spacex-Api-Cache-Online: true[\r][\n]" 
+28 Sep 16:11:35,534 DEBUG -  << "Spacex-Api-Response-Time: 1ms[\r][\n]" 
+28 Sep 16:11:35,534 DEBUG -  << "Strict-Transport-Security: max-age=15552000; includeSubDomains[\r][\n]" 
+28 Sep 16:11:35,534 DEBUG -  << "Vary: Origin[\r][\n]" 
+28 Sep 16:11:35,535 DEBUG -  << "X-Content-Type-Options: nosniff[\r][\n]" 
+28 Sep 16:11:35,535 DEBUG -  << "X-Dns-Prefetch-Control: off[\r][\n]" 
+28 Sep 16:11:35,535 DEBUG -  << "X-Download-Options: noopen[\r][\n]" 
+28 Sep 16:11:35,535 DEBUG -  << "X-Frame-Options: SAMEORIGIN[\r][\n]" 
+28 Sep 16:11:35,535 DEBUG -  << "X-Xss-Protection: 1; mode=block[\r][\n]" 
+28 Sep 16:11:35,536 DEBUG -  << "CF-Cache-Status: DYNAMIC[\r][\n]" 
+28 Sep 16:11:35,536 DEBUG -  << "cf-request-id: 0575e6c85200001d5f10be9200000001[\r][\n]" 
+28 Sep 16:11:35,536 DEBUG -  << "Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"[\r][\n]" 
+28 Sep 16:11:35,536 DEBUG -  << "Server: cloudflare[\r][\n]" 
+28 Sep 16:11:35,536 DEBUG -  << "CF-RAY: 5d9cda53ba4c1d5f-NRT[\r][\n]" 
+28 Sep 16:11:35,537 DEBUG -  << "Content-Encoding: gzip[\r][\n]" 
+28 Sep 16:11:35,537 DEBUG -  << "alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400[\r][\n]" 
+28 Sep 16:11:35,537 DEBUG -  << "[\r][\n]" 
+28 Sep 16:11:35,537 DEBUG - Receiving response: HTTP/1.1 200 OK 
+28 Sep 16:11:35,537 DEBUG - << HTTP/1.1 200 OK 
+28 Sep 16:11:35,537 DEBUG - << Date: Mon, 28 Sep 2020 10:41:35 GMT 
+28 Sep 16:11:35,538 DEBUG - << Content-Type: application/json; charset=utf-8 
+28 Sep 16:11:35,538 DEBUG - << Transfer-Encoding: chunked 
+28 Sep 16:11:35,538 DEBUG - << Connection: keep-alive 
+28 Sep 16:11:35,538 DEBUG - << Set-Cookie: __cfduid=d196899a65431272c719f833fac67b8181601289695; expires=Wed, 28-Oct-20 10:41:35 GMT; path=/; domain=.spacexdata.com; HttpOnly; SameSite=Lax; Secure 
+28 Sep 16:11:35,538 DEBUG - << Access-Control-Allow-Origin: * 
+28 Sep 16:11:35,538 DEBUG - << Access-Control-Expose-Headers: spacex-api-cache,spacex-api-response-time 
+28 Sep 16:11:35,538 DEBUG - << Cache-Control: max-age=20 
+28 Sep 16:11:35,539 DEBUG - << Etag: W/"7c4-RYScSo2ZAjOd7bO04jITb5cLLUs" 
+28 Sep 16:11:35,539 DEBUG - << Spacex-Api-Cache: HIT 
+28 Sep 16:11:35,539 DEBUG - << Spacex-Api-Cache-Online: true 
+28 Sep 16:11:35,539 DEBUG - << Spacex-Api-Response-Time: 1ms 
+28 Sep 16:11:35,539 DEBUG - << Strict-Transport-Security: max-age=15552000; includeSubDomains 
+28 Sep 16:11:35,539 DEBUG - << Vary: Origin 
+28 Sep 16:11:35,539 DEBUG - << X-Content-Type-Options: nosniff 
+28 Sep 16:11:35,539 DEBUG - << X-Dns-Prefetch-Control: off 
+28 Sep 16:11:35,540 DEBUG - << X-Download-Options: noopen 
+28 Sep 16:11:35,540 DEBUG - << X-Frame-Options: SAMEORIGIN 
+28 Sep 16:11:35,540 DEBUG - << X-Xss-Protection: 1; mode=block 
+28 Sep 16:11:35,540 DEBUG - << CF-Cache-Status: DYNAMIC 
+28 Sep 16:11:35,540 DEBUG - << cf-request-id: 0575e6c85200001d5f10be9200000001 
+28 Sep 16:11:35,540 DEBUG - << Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct" 
+28 Sep 16:11:35,540 DEBUG - << Server: cloudflare 
+28 Sep 16:11:35,541 DEBUG - << CF-RAY: 5d9cda53ba4c1d5f-NRT 
+28 Sep 16:11:35,541 DEBUG - << Content-Encoding: gzip 
+28 Sep 16:11:35,541 DEBUG - << alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400 
+28 Sep 16:11:35,541 DEBUG - Connection can be kept alive indefinitely 
+28 Sep 16:11:35,542 DEBUG - Parsing response as: application/json; charset=utf-8 
+28 Sep 16:11:35,542 DEBUG -  << "3f6[\r][\n]" 
+28 Sep 16:11:35,542 DEBUG -  << "[0x1f]" 
+28 Sep 16:11:35,542 DEBUG -  << "[0x8b]" 
+28 Sep 16:11:35,542 DEBUG -  << "[0x8]" 
+28 Sep 16:11:35,543 DEBUG -  << "[0x0]" 
+28 Sep 16:11:35,543 DEBUG -  << "[0x0][0x0][0x0][0x0][0x0][0x3]" 
+28 Sep 16:11:35,543 DEBUG - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream 
+28 Sep 16:11:35,547 DEBUG -  << "[0x94]Umo[0xa4]6[0x10][0xfe]+[0x96]?[0xb5][0x12][0x1][0x3][0xbb][0x4][0xf8]vJ_[0xa5][0xeb][0x87]6[0x91]N[0xed])B[0x83]=[0x80]o[0x8d][0x8d]l[0x13][0x92][0x8b][0xf2][0xdf]+[0xc3][0xee]f[0x93]V[0xad][0xee][0x9b]=[0xe3][0x99][0xe7][0x99]W?[0xd3][0xe][0xa4][0x95][0xba]w[0xb4]~[0xa6][0x16]g[0x87][0x82][0xd6]zV*[0xa2][0x16][0xb9]y@[0xfb][0xd4][0x80][0xf7]8N[0x9e][0xd6][0xde][0xce]x[0x96][0xbf]>t[0x83][0x9c][0x1c][0xad]?[0xd3]=B[0x81]"CV2[0xd1][0xed][0x18]cEu[0xcd]+V[0xd2][0xfb][0x97][0x88]*[0xa9][0xf]+[0xca][0x4][0x9e][0xf][0xe1][0xe0]FP[0x8a][0xd6]t[0xf0]~ru[0x92][0xc8][0x11]ztY,[0xc7][0xbe]5[0x8f]17cRAR[0x15][0x89][0xfe]8M_[0xab]_>5&[0x9e]tO#[0xaa][0xc0][0xf6][0xf8][0xdf][0x96]"K[0xf2]6i[0x87]OR*v[0xb4]|[0x9][0xec][0x85][0x90]>[0xc0]s[0x18]'[0x90][0xbd][0xbe][0xf0][0xb3],K[0xbc]=X}" 
+28 Sep 16:11:35,548 DEBUG -  << "[0xd8][0xc4]M[0xc0][0xf1]1[0xe1]f[0x1c]Q{[0x97][0xc8]"o[0x9d]O[0x9c][0x7][0x1b][0xe2]iz[0xd4]hA5B:>;'[0x8d]n@[0x8b]F[0xe0][0xa4][0xcc]S0i[0xfc]`[0x11]D[0xb2][0x92][0x9e]u[0x8][0xfc][0x1b][0xd0][0xe4]T[0xe]yb7ysBM[0xd3]f[0xf3]u[0x9];O[0x2]<[0xba][0x0]4[0xa2][0x90][0xf0]M8_[0xca][0xf1][0xb1][0xfb]7[0x1c][0x7][0x86][0x9b][0xb1]I[0xdb]fuz[0x11][0xcd][0xa9];[0xb6]&x[0x89]h[0xa7]$?[0xd8][0x8b][0xba]~[0xbe][0x8f][0xa8][0xb1][0xb2][0x97][0x1a][0xd6][0xdb]KD'[0x8b][0xce][0x1d]B[0xfa][0xb7][0xce]Y[0xb0][0xe5][0xe0][0xfc][0x5][0xd7]'3[0xfb]9n1i[0xbe][0xec][0x1e][0xff][0xb8][0xfe][0xf8][0xdb][0xcd][0xcf][0xd2][0x88][0xae][0xe2][0x16][0x1b])hM[0xdf][0xaa][0xc0]z[0xc9][0x15][0x9e]][0xca][0x83][0x9c][0xde]%[0x0]u|[0x16][0xc7][0xc6][0xf6]I[0xb8]%[0xb7][0xc7]0CW8[0xf]^[0xf2][0xa6][0x93][0x16][0x9b][0x90][0xc7]f[0xf6][0xfc][0xdc][0xde][0xff][0xd0]i[0xf9]xR[0xfa]V[0xd0][0xba][0x3][0xe5]0[0xa2][0x1a][0xfd][0xf9][0xbc]H-[0xcc]r[0x1e]%[0xc3][0xf]AI[0xf7]X[0x9]&[0xaa]=[\n]" 
+28 Sep 16:11:35,548 DEBUG -  << "([0xaa][0xea]:[0x87][0x92]U"EN#[0xea]f[0xce][0xd1][0xb9][0xd3][0x94][0x9][0xf4] [0x95][0xa3]5[0xbd][0x1b][0xa4]#[0xa3]\[0xcb]L[0x16][0xa9][0x14][0xd9][0xaa]O[0xfc][0x80][0x4][0x15]>[0xa0][0xf6][0x3]i[0xc3]T[0x11][0xd3][0x11]3[0xa1][0x5]/[0x8d][0x6]EN![0x12][0x7][0x1e][0x95][0x92][0x1e]]D[0x96]A[0xf2][0x81][0x80]E[0x82][0x8f][0x13]r[0x8f][0x82]xCZ$[0xf]hW[0x8c]4f[0x11][0xe9][0xac][0x19][0xc9][0xed][0xc7][0x9b][0xab][0x1d][0x8b][0xc8][\r]LHn@[0xc3]C[0xe8]v[0xf2]AZ[0xf2][0x93][0xb1][0x1c][0x3]@[0x80][0x8a][0xc9][0xaf][0x9e]H[0xb7]2[0xf2][0xb][0xaa][0xce][0xf][0xaf][0xd8]G[0xb6]f[0xb5]U1[0xb9][0x1b][0xf0][0x82][0xcf][0x16]Q[0x8b]D[0xa0][0x92][0xeb]Z[0x9]l[0x94]Y[0xc8][0x8f]`[0xfd]@[0x8c]m[0xa5]'[0xa0][0xc5][0xf6][0xd0]M[0xa8][0x5][0x1][0xd2][0xe1]B[0x16][0xc4][0x83]##h[0x9c][0x1f]0,[0xb1]`[0xe9][0x7][0x94][0xf6]M[0x12]@y[0xe9]g[0x81]!9[0xfb]=#[0x87]q[0xe3][0xd0][0x1a][0xe3]<Z[0xd2][0x19]K[0xfc]e[0x8e][0xa5]{[0x93][0x19][0x15][0xc0][0x8d]&[0xa0][0xc9][0x87][0xdb][0x1f]nc[0x1a]Qnq[0xd9][0x1a][0xfc][0xff]w_tRu[0xef]T[0xed][0xaa][0xc2][0xa2][0xe4]E[0x99][0xf3],+[0xbb][0xbc]h[0xc5][0xbe]d" 
+28 Sep 16:11:35,549 DEBUG -  << "U[0xbb][0xa7][0xf7][0x11][0xe5]0[0xb9]Y[0xa1][0xdb][0x80]&xR[0x6][0xc4][0x11][0xab]+`W0[0xc6][0xf6][0x15][0xcf]s[0x8e][0xb8][0x83]2[0xab]0Xm[0xd9][0x9e]@l[0xdd][0x86][0xbb]=[0xcb][0xba]=[0xab]X[0xb5]K[0xcb]r_[0x14]][0x19]8[0xc1][0xec][0xcd]qg[0x9c]:[0xae][0x3][0xa9]f{[0xc2][0xeb][0x94][0xec][0x7][0xdf][0xe8]yl[0xd1][0xd2]:eYD5[0x8c]a[0xeb][0x9e]*{[0x95][0xa6][0xe4][0xbb][0x87]4f[0xdf][0xd3][0x88][0xbe]N[\r][0xcd]X[0xc6][0xae]Xu[0xc5][0xf2][0xbb]4[0xab]wE[0xcd]X[0xcc][0x18][0xfb][0xeb][0xfc]j[0x9d][0x9f]t_Ui~[0x9d][0x16][0xec](V[0x86][0x87]Eqi[0xce][0xca][0xcd][0xfc][0x8a][0xed]j[0xc6]N[0xf6][0x93]E.C[0xa5][0xc2][0x88][0x9b][0xd9][0xd2][0x88][0xce][0x13]7[0xa3][0xd4][0xfd]y[0xfe][0xb8][0xd9]"y^Ok.[0xba][0xe2][0x9a]u[0xe9][0xdb][0x9c][0x15]a[0xf2][0xb6]Pi[0x9d]E[0xb4][0xb7]RtR[0x9f][0xa7]Pa[0xef]^[0xff][0xbd][0xed]w<j@[0xb][0xa9][0xfb][0xf7][0x9f][0xe3]I[0xfc]n[0x9a]Ob[0xff]4[0x5]2[0xa1][0x8f][0xe8]&}[0xad]T[0xce][0xf2],/s[0xe4]m[0xd1][0xb6]Y[0xbe][0xc3]k[0xe][0xf4][0xe5]>[0xa2]R[0x1c][0xf9]C[0x8a][0xd5][[0xfe]%[0xd0][0x97][0xbf][0x1][0x0][0x0][0xff][0xff][0x3][0x0][0xd0][0x95][0x11][0xe3][0xc4][0x7][0x0][0x0]" 
+28 Sep 16:11:35,549 DEBUG -  << "[\r][\n]" 
+28 Sep 16:11:35,549 DEBUG -  << "0[\r][\n]" 
+28 Sep 16:11:35,549 DEBUG -  << "[\r][\n]" 
+28 Sep 16:11:35,549 DEBUG - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@7d37f1c 
+28 Sep 16:11:35,550 DEBUG - Connection can be kept alive indefinitely 
+28 Sep 16:11:38,553 DEBUG - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it. 
+28 Sep 16:11:38,554 DEBUG - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found 
+28 Sep 16:11:38,556 DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found 
+28 Sep 16:11:38,557 DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found 
+28 Sep 16:11:38,557 DEBUG - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Nokia/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl" 
+28 Sep 16:11:38,657 DEBUG - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it. 
+28 Sep 16:11:38,658 DEBUG - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found 
+28 Sep 16:11:38,659 DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found 
+28 Sep 16:11:38,660 DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found 
+28 Sep 16:11:38,660 DEBUG - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Nokia/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl" 
